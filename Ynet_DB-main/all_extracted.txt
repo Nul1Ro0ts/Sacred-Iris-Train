@@ -1,0 +1,480 @@
+============================================================
+ALL EXTRACTED VALUES
+============================================================
+
+[0.95] password: eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9
+  Source: https://ynet.co.il/food
+  Context: Token:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDI1ZGQQKhNbsni1CGU3ZgOUh
+  Source: https://ynet.co.il/app.ini
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDI1ZGQQKhNbsni1CGU3ZgOUh
+----------------------------------------
+[0.85] api_key: eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9
+  Source: https://ynet.co.il/food
+  Context: Token:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9
+----------------------------------------
+[0.85] api_key: 7gcy23wq2h56kv997zvb5rrun8gatcd3
+  Source: https://ynet.co.il/food
+  Context: API_KEY:7gcy23wq2h56kv997zvb5rrun8gatcd3
+----------------------------------------
+[0.85] api_key: 733d1c3630e70e0f688a84bd6f3662a7
+  Source: https://ynet.co.il/food
+  Context: generic_key:733d1c3630e70e0f688a84bd6f3662a7
+----------------------------------------
+[0.85] api_key: eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9
+  Source: https://ynet.co.il/food
+  Context: generic_key:eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9
+----------------------------------------
+[0.85] api_key: PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA
+  Source: https://ynet.co.il/food
+  Context: generic_key:PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA
+----------------------------------------
+[0.85] api_key: c4433875000248c68b996b8e34503a0b
+  Source: https://ynet.co.il/food
+  Context: generic_key:c4433875000248c68b996b8e34503a0b
+----------------------------------------
+[0.85] api_key: MultiArticleManualeChannelsComponenta1280
+  Source: https://ynet.co.il/food
+  Context: generic_key:MultiArticleManualeChannelsComponenta1280
+----------------------------------------
+[0.85] api_key: e45439a1b8f4475dbdbb48fa4f9b1609
+  Source: https://ynet.co.il/food
+  Context: generic_key:e45439a1b8f4475dbdbb48fa4f9b1609
+----------------------------------------
+[0.85] api_key: nisnutl79n0hiqsba35jgv6u0k4utk0m
+  Source: https://ynet.co.il/food
+  Context: generic_key:nisnutl79n0hiqsba35jgv6u0k4utk0m
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDMxZGTacHMMFss1sakWgB0ItkA2yMyVInvrtu5qGf8jcnllGw
+  Source: https://ynet.co.il/.htpasswd
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDMxZGTacHMMFss1sakWgB0ItkA2yMyVInvrtu5qGf8jcnllGw
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQwZGSfK6PkC81m2K
+  Source: https://ynet.co.il/.git/HEAD
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQwZGSfK6PkC81m2K
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQ5ZGTF7sk76mQCrFG4P6Kzrd9He50Ce1G78ua
+  Source: https://ynet.co.il/tmp/
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQ5ZGTF7sk76mQCrFG4P6Kzrd9He50Ce1G78ua
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUyZGRqHxYXWz4dpGg5
+  Source: https://ynet.co.il/postgres/
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUyZGRqHxYXWz4dpGg5
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUwZGTPbkU0k5pARIkMeIen8TIKa7hAYE803l8fT9TW10cqmQ
+  Source: https://ynet.co.il/.htaccess
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUwZGTPbkU0k5pARIkMeIen8TIKa7hAYE803l8fT9TW10cqmQ
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUzZGQ32ibed4
+  Source: https://ynet.co.il/db.php
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUzZGQ32ibed4
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDc5ZGTbC82kqmahuThTPp86tmvtIo5atQgI9VFW1ymKseaYlw
+  Source: https://ynet.co.il/phpinfo.php
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDc5ZGTbC82kqmahuThTPp86tmvtIo5atQgI9VFW1ymKseaYlw
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDgxZGTu2bEC
+  Source: https://ynet.co.il/debug.log
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDgxZGTu2bEC
+----------------------------------------
+[0.85] api_key: vmvPOXo7VeadoB0c4XVk8fB52hhdzq4ijJ1Nw
+  Source: https://ynet.co.il/debug.log
+  Context: generic_key:vmvPOXo7VeadoB0c4XVk8fB52hhdzq4ijJ1Nw
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk2ZGRTjqyuLZDlqxxhpTep8Jr9VklkOLX5ZRjVx1iXL277dg
+  Source: https://ynet.co.il/test.php
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk2ZGRTjqyuLZDlqxxhpTep8Jr9VklkOLX5ZRjVx1iXL277dg
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk4ZGRkf
+  Source: https://ynet.co.il/.env.prod
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk4ZGRkf
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTAwZGQX0c5BMri7bTzJkUZcMlT87np0ODX9l9Nso
+  Source: https://ynet.co.il/config.ini
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTAwZGQX0c5BMri7bTzJkUZcMlT87np0ODX9l9Nso
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk5ZGT7S31uMMNXAyPruV7dUSMNvSjnwmLJ5sxcYi06NVX6Bw
+  Source: https://ynet.co.il/config.php
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk5ZGT7S31uMMNXAyPruV7dUSMNvSjnwmLJ5sxcYi06NVX6Bw
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTIyZGRpYX9ZJU8Rfgo304EhIgscx5cSq
+  Source: https://ynet.co.il/.git/
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTIyZGRpYX9ZJU8Rfgo304EhIgscx5cSq
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTQ5ZGS
+  Source: https://ynet.co.il/access_log
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTQ5ZGS
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTYxZGTnWcmUeDgpNCRK5EObmIbnY9gdsFLI4Y1NaeFb4MG0ZQ
+  Source: https://ynet.co.il/.env.local
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTYxZGTnWcmUeDgpNCRK5EObmIbnY9gdsFLI4Y1NaeFb4MG0ZQ
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTkwZGQrcoNpn7xT7Xw3jCBGCD8TQBJpKxNTTzGfx5tgkXmm4Q
+  Source: https://ynet.co.il/status.php
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTkwZGQrcoNpn7xT7Xw3jCBGCD8TQBJpKxNTTzGfx5tgkXmm4Q
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEyZGSupAgEksYTPUXdsd2uAIQsXaWJ0ORlhU2Ql7V
+  Source: https://ynet.co.il/settings.env
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEyZGSupAgEksYTPUXdsd2uAIQsXaWJ0ORlhU2Ql7V
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEzZGSmIDrrCNehcfJpVR19BpiZl1DaS3vGiMDI6XfTgfJQLw
+  Source: https://ynet.co.il/phpmyadmin/
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEzZGSmIDrrCNehcfJpVR19BpiZl1DaS3vGiMDI6XfTgfJQLw
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ1ZGSFnsf3sEg1c
+  Source: https://ynet.co.il/data.sql
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ1ZGSFnsf3sEg1c
+----------------------------------------
+[0.85] api_key: XuTaWSSSlCk9paC2WDhgeN2Lx5qGO5Gw
+  Source: https://ynet.co.il/data.sql
+  Context: generic_key:XuTaWSSSlCk9paC2WDhgeN2Lx5qGO5Gw
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ5ZGQgpRD02d1Hmrc3YPKLAtSb9eTTCwJhM
+  Source: https://ynet.co.il/mysql/
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ5ZGQgpRD02d1Hmrc3YPKLAtSb9eTTCwJhM
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc3ZGQWtpDGJXMDZtB
+  Source: https://ynet.co.il/backup.tar.gz
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc3ZGQWtpDGJXMDZtB
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc4ZGRLIzxCgXg04NyNY1yf
+  Source: https://ynet.co.il/app.log
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc4ZGRLIzxCgXg04NyNY1yf
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc2ZGRrxOZOyhYHdX3
+  Source: https://ynet.co.il/dump.sql
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc2ZGRrxOZOyhYHdX3
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzExZGTvrj
+  Source: https://ynet.co.il/.gitignore
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzExZGTvrj
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzM0ZGSyj7XLLU
+  Source: https://ynet.co.il/server-status
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzM0ZGSyj7XLLU
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzUzZGS1fEWDO3xB
+  Source: https://ynet.co.il/settings.ini
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzUzZGS1fEWDO3xB
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzU0ZGSkem0
+  Source: https://ynet.co.il/log/
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzU0ZGSkem0
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzYzZGQ3yhds
+  Source: https://ynet.co.il/test/
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzYzZGQ3yhds
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzc1ZGTiqY9Ru5iM1
+  Source: https://ynet.co.il/wp-login.php
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzc1ZGTiqY9Ru5iM1
+----------------------------------------
+[0.85] api_key: c9mOAICM3UYLWRvDMYlPNv1hRHiJvmmQ
+  Source: https://ynet.co.il/wp-login.php
+  Context: generic_key:c9mOAICM3UYLWRvDMYlPNv1hRHiJvmmQ
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgzZGRz1EywqquzKspBRqzFbA5E2l09M6WREm9ovRt7cwv0vQ
+  Source: https://ynet.co.il/debug.php
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgzZGRz1EywqquzKspBRqzFbA5E2l09M6WREm9ovRt7cwv0vQ
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgxZGRtK0IJRoieaYxr7r42nq7tJZfIfp
+  Source: https://ynet.co.il/composer.lock
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgxZGRtK0IJRoieaYxr7r42nq7tJZfIfp
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgyZGS7Qd4JUjU09TvLLfVBlh0ZMyyVXym9kGjCtNcn7XxLcg
+  Source: https://ynet.co.il/config.json
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgyZGS7Qd4JUjU09TvLLfVBlh0ZMyyVXym9kGjCtNcn7XxLcg
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzg5ZGSkT9TzChkYHTcDFLHzyulMF56H6cjRB6KIzlxvzySIUw
+  Source: https://ynet.co.il/database.php
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzg5ZGSkT9TzChkYHTcDFLHzyulMF56H6cjRB6KIzlxvzySIUw
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk4ZGTbVI
+  Source: https://ynet.co.il/.git/index
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk4ZGTbVI
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk5ZGT0
+  Source: https://ynet.co.il/backup.sql
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk5ZGT0
+----------------------------------------
+[0.85] api_key: cD0Ss9SKDKUCrGdHDIYJ9owg4XUGqjUvFxQnJsc6A
+  Source: https://ynet.co.il/backup.sql
+  Context: generic_key:cD0Ss9SKDKUCrGdHDIYJ9owg4XUGqjUvFxQnJsc6A
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDE1ZGRBI8JZX1naMfymBtsuPAYokDIou4Ah
+  Source: https://ynet.co.il/error_log
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDE1ZGRBI8JZX1naMfymBtsuPAYokDIou4Ah
+----------------------------------------
+[0.85] api_key: 6b8d686e57134dff977f1878d76da83e
+  Source: https://ynet.co.il/radio
+  Context: generic_key:6b8d686e57134dff977f1878d76da83e
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDI0ZGTVi0k7dFOsrxlvOiZ31FmMPGkgKqclT0Pmrr3R67XCtw
+  Source: https://ynet.co.il/db.sql
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDI0ZGTVi0k7dFOsrxlvOiZ31FmMPGkgKqclT0Pmrr3R67XCtw
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDIzZGTCz6r2tY9KEnbswgqoITeJJgdcZxykjSk5
+  Source: https://ynet.co.il/temp/
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDIzZGTCz6r2tY9KEnbswgqoITeJJgdcZxykjSk5
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDM1ZGRS
+  Source: https://ynet.co.il/config.env
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDM1ZGRS
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ1ZGTBL1dsfx6BZI
+  Source: https://ynet.co.il/database.sql
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ1ZGTBL1dsfx6BZI
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ0ZGTrnMPE
+  Source: https://ynet.co.il/testing/
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ0ZGTrnMPE
+----------------------------------------
+[0.85] api_key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDYzZGSlL
+  Source: https://ynet.co.il/settings.php
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDYzZGSlL
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDI1ZGQQKhNbsni1CGU3ZgOUh
+  Source: https://ynet.co.il/app.ini
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDI1ZGQQKhNbsni1CGU3ZgOUh
+----------------------------------------
+[0.80] base64: eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9
+  Source: https://ynet.co.il/food
+  Context: Token:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9
+----------------------------------------
+[0.80] base64: 7gcy23wq2h56kv997zvb5rrun8gatcd3
+  Source: https://ynet.co.il/food
+  Context: API_KEY:7gcy23wq2h56kv997zvb5rrun8gatcd3
+----------------------------------------
+[0.80] hash: 733d1c3630e70e0f688a84bd6f3662a7
+  Source: https://ynet.co.il/food
+  Context: generic_key:733d1c3630e70e0f688a84bd6f3662a7
+----------------------------------------
+[0.80] base64: 733d1c3630e70e0f688a84bd6f3662a7
+  Source: https://ynet.co.il/food
+  Context: generic_key:733d1c3630e70e0f688a84bd6f3662a7
+----------------------------------------
+[0.80] base64: eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9
+  Source: https://ynet.co.il/food
+  Context: generic_key:eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9
+----------------------------------------
+[0.80] base64: PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA
+  Source: https://ynet.co.il/food
+  Context: generic_key:PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA
+----------------------------------------
+[0.80] hash: c4433875000248c68b996b8e34503a0b
+  Source: https://ynet.co.il/food
+  Context: generic_key:c4433875000248c68b996b8e34503a0b
+----------------------------------------
+[0.80] base64: c4433875000248c68b996b8e34503a0b
+  Source: https://ynet.co.il/food
+  Context: generic_key:c4433875000248c68b996b8e34503a0b
+----------------------------------------
+[0.80] base64: MultiArticleManualeChannelsComponenta1280
+  Source: https://ynet.co.il/food
+  Context: generic_key:MultiArticleManualeChannelsComponenta1280
+----------------------------------------
+[0.80] hash: e45439a1b8f4475dbdbb48fa4f9b1609
+  Source: https://ynet.co.il/food
+  Context: generic_key:e45439a1b8f4475dbdbb48fa4f9b1609
+----------------------------------------
+[0.80] base64: e45439a1b8f4475dbdbb48fa4f9b1609
+  Source: https://ynet.co.il/food
+  Context: generic_key:e45439a1b8f4475dbdbb48fa4f9b1609
+----------------------------------------
+[0.80] base64: nisnutl79n0hiqsba35jgv6u0k4utk0m
+  Source: https://ynet.co.il/food
+  Context: generic_key:nisnutl79n0hiqsba35jgv6u0k4utk0m
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDMxZGTacHMMFss1sakWgB0ItkA2yMyVInvrtu5qGf8jcnllGw
+  Source: https://ynet.co.il/.htpasswd
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDMxZGTacHMMFss1sakWgB0ItkA2yMyVInvrtu5qGf8jcnllGw
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQwZGSfK6PkC81m2K
+  Source: https://ynet.co.il/.git/HEAD
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQwZGSfK6PkC81m2K
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQ5ZGTF7sk76mQCrFG4P6Kzrd9He50Ce1G78ua
+  Source: https://ynet.co.il/tmp/
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQ5ZGTF7sk76mQCrFG4P6Kzrd9He50Ce1G78ua
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUyZGRqHxYXWz4dpGg5
+  Source: https://ynet.co.il/postgres/
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUyZGRqHxYXWz4dpGg5
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUwZGTPbkU0k5pARIkMeIen8TIKa7hAYE803l8fT9TW10cqmQ
+  Source: https://ynet.co.il/.htaccess
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUwZGTPbkU0k5pARIkMeIen8TIKa7hAYE803l8fT9TW10cqmQ
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUzZGQ32ibed4
+  Source: https://ynet.co.il/db.php
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUzZGQ32ibed4
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDc5ZGTbC82kqmahuThTPp86tmvtIo5atQgI9VFW1ymKseaYlw
+  Source: https://ynet.co.il/phpinfo.php
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDc5ZGTbC82kqmahuThTPp86tmvtIo5atQgI9VFW1ymKseaYlw
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDgxZGTu2bEC
+  Source: https://ynet.co.il/debug.log
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDgxZGTu2bEC
+----------------------------------------
+[0.80] base64: vmvPOXo7VeadoB0c4XVk8fB52hhdzq4ijJ1Nw
+  Source: https://ynet.co.il/debug.log
+  Context: generic_key:vmvPOXo7VeadoB0c4XVk8fB52hhdzq4ijJ1Nw
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk2ZGRTjqyuLZDlqxxhpTep8Jr9VklkOLX5ZRjVx1iXL277dg
+  Source: https://ynet.co.il/test.php
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk2ZGRTjqyuLZDlqxxhpTep8Jr9VklkOLX5ZRjVx1iXL277dg
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk4ZGRkf
+  Source: https://ynet.co.il/.env.prod
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk4ZGRkf
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTAwZGQX0c5BMri7bTzJkUZcMlT87np0ODX9l9Nso
+  Source: https://ynet.co.il/config.ini
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTAwZGQX0c5BMri7bTzJkUZcMlT87np0ODX9l9Nso
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk5ZGT7S31uMMNXAyPruV7dUSMNvSjnwmLJ5sxcYi06NVX6Bw
+  Source: https://ynet.co.il/config.php
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk5ZGT7S31uMMNXAyPruV7dUSMNvSjnwmLJ5sxcYi06NVX6Bw
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTIyZGRpYX9ZJU8Rfgo304EhIgscx5cSq
+  Source: https://ynet.co.il/.git/
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTIyZGRpYX9ZJU8Rfgo304EhIgscx5cSq
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTQ5ZGS
+  Source: https://ynet.co.il/access_log
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTQ5ZGS
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTYxZGTnWcmUeDgpNCRK5EObmIbnY9gdsFLI4Y1NaeFb4MG0ZQ
+  Source: https://ynet.co.il/.env.local
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTYxZGTnWcmUeDgpNCRK5EObmIbnY9gdsFLI4Y1NaeFb4MG0ZQ
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTkwZGQrcoNpn7xT7Xw3jCBGCD8TQBJpKxNTTzGfx5tgkXmm4Q
+  Source: https://ynet.co.il/status.php
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTkwZGQrcoNpn7xT7Xw3jCBGCD8TQBJpKxNTTzGfx5tgkXmm4Q
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEyZGSupAgEksYTPUXdsd2uAIQsXaWJ0ORlhU2Ql7V
+  Source: https://ynet.co.il/settings.env
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEyZGSupAgEksYTPUXdsd2uAIQsXaWJ0ORlhU2Ql7V
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEzZGSmIDrrCNehcfJpVR19BpiZl1DaS3vGiMDI6XfTgfJQLw
+  Source: https://ynet.co.il/phpmyadmin/
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEzZGSmIDrrCNehcfJpVR19BpiZl1DaS3vGiMDI6XfTgfJQLw
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ1ZGSFnsf3sEg1c
+  Source: https://ynet.co.il/data.sql
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ1ZGSFnsf3sEg1c
+----------------------------------------
+[0.80] base64: XuTaWSSSlCk9paC2WDhgeN2Lx5qGO5Gw
+  Source: https://ynet.co.il/data.sql
+  Context: generic_key:XuTaWSSSlCk9paC2WDhgeN2Lx5qGO5Gw
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ5ZGQgpRD02d1Hmrc3YPKLAtSb9eTTCwJhM
+  Source: https://ynet.co.il/mysql/
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ5ZGQgpRD02d1Hmrc3YPKLAtSb9eTTCwJhM
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc3ZGQWtpDGJXMDZtB
+  Source: https://ynet.co.il/backup.tar.gz
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc3ZGQWtpDGJXMDZtB
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc4ZGRLIzxCgXg04NyNY1yf
+  Source: https://ynet.co.il/app.log
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc4ZGRLIzxCgXg04NyNY1yf
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc2ZGRrxOZOyhYHdX3
+  Source: https://ynet.co.il/dump.sql
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc2ZGRrxOZOyhYHdX3
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzExZGTvrj
+  Source: https://ynet.co.il/.gitignore
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzExZGTvrj
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzM0ZGSyj7XLLU
+  Source: https://ynet.co.il/server-status
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzM0ZGSyj7XLLU
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzUzZGS1fEWDO3xB
+  Source: https://ynet.co.il/settings.ini
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzUzZGS1fEWDO3xB
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzU0ZGSkem0
+  Source: https://ynet.co.il/log/
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzU0ZGSkem0
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzYzZGQ3yhds
+  Source: https://ynet.co.il/test/
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzYzZGQ3yhds
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzc1ZGTiqY9Ru5iM1
+  Source: https://ynet.co.il/wp-login.php
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzc1ZGTiqY9Ru5iM1
+----------------------------------------
+[0.80] base64: c9mOAICM3UYLWRvDMYlPNv1hRHiJvmmQ
+  Source: https://ynet.co.il/wp-login.php
+  Context: generic_key:c9mOAICM3UYLWRvDMYlPNv1hRHiJvmmQ
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgzZGRz1EywqquzKspBRqzFbA5E2l09M6WREm9ovRt7cwv0vQ
+  Source: https://ynet.co.il/debug.php
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgzZGRz1EywqquzKspBRqzFbA5E2l09M6WREm9ovRt7cwv0vQ
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgxZGRtK0IJRoieaYxr7r42nq7tJZfIfp
+  Source: https://ynet.co.il/composer.lock
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgxZGRtK0IJRoieaYxr7r42nq7tJZfIfp
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgyZGS7Qd4JUjU09TvLLfVBlh0ZMyyVXym9kGjCtNcn7XxLcg
+  Source: https://ynet.co.il/config.json
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgyZGS7Qd4JUjU09TvLLfVBlh0ZMyyVXym9kGjCtNcn7XxLcg
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzg5ZGSkT9TzChkYHTcDFLHzyulMF56H6cjRB6KIzlxvzySIUw
+  Source: https://ynet.co.il/database.php
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzg5ZGSkT9TzChkYHTcDFLHzyulMF56H6cjRB6KIzlxvzySIUw
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk4ZGTbVI
+  Source: https://ynet.co.il/.git/index
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk4ZGTbVI
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk5ZGT0
+  Source: https://ynet.co.il/backup.sql
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk5ZGT0
+----------------------------------------
+[0.80] base64: cD0Ss9SKDKUCrGdHDIYJ9owg4XUGqjUvFxQnJsc6A
+  Source: https://ynet.co.il/backup.sql
+  Context: generic_key:cD0Ss9SKDKUCrGdHDIYJ9owg4XUGqjUvFxQnJsc6A
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDE1ZGRBI8JZX1naMfymBtsuPAYokDIou4Ah
+  Source: https://ynet.co.il/error_log
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDE1ZGRBI8JZX1naMfymBtsuPAYokDIou4Ah
+----------------------------------------
+[0.80] hash: 6b8d686e57134dff977f1878d76da83e
+  Source: https://ynet.co.il/radio
+  Context: generic_key:6b8d686e57134dff977f1878d76da83e
+----------------------------------------
+[0.80] base64: 6b8d686e57134dff977f1878d76da83e
+  Source: https://ynet.co.il/radio
+  Context: generic_key:6b8d686e57134dff977f1878d76da83e
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDI0ZGTVi0k7dFOsrxlvOiZ31FmMPGkgKqclT0Pmrr3R67XCtw
+  Source: https://ynet.co.il/db.sql
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDI0ZGTVi0k7dFOsrxlvOiZ31FmMPGkgKqclT0Pmrr3R67XCtw
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDIzZGTCz6r2tY9KEnbswgqoITeJJgdcZxykjSk5
+  Source: https://ynet.co.il/temp/
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDIzZGTCz6r2tY9KEnbswgqoITeJJgdcZxykjSk5
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDM1ZGRS
+  Source: https://ynet.co.il/config.env
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDM1ZGRS
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ1ZGTBL1dsfx6BZI
+  Source: https://ynet.co.il/database.sql
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ1ZGTBL1dsfx6BZI
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ0ZGTrnMPE
+  Source: https://ynet.co.il/testing/
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ0ZGTrnMPE
+----------------------------------------
+[0.80] base64: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDYzZGSlL
+  Source: https://ynet.co.il/settings.php
+  Context: generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDYzZGSlL
+----------------------------------------

@@ -1,0 +1,629 @@
+============================================================
+API KEYS EXTRACTED
+============================================================
+
+Source: https://ynet.co.il/app.ini
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDI1ZGQQKhNbsni1CGU3ZgOUh
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/food
+Service: hex_key
+Key: eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/food
+Service: hex_key
+Key: 7gcy23wq2h56kv997zvb5rrun8gatcd3
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/food
+Service: hex_key
+Key: 733d1c3630e70e0f688a84bd6f3662a7
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/food
+Service: hex_key
+Key: eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/food
+Service: hex_key
+Key: PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/food
+Service: hex_key
+Key: c4433875000248c68b996b8e34503a0b
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/food
+Service: hex_key
+Key: MultiArticleManualeChannelsComponenta1280
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/food
+Service: hex_key
+Key: e45439a1b8f4475dbdbb48fa4f9b1609
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/food
+Service: hex_key
+Key: nisnutl79n0hiqsba35jgv6u0k4utk0m
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/.htpasswd
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDMxZGTacHMMFss1sakWgB0ItkA2yMyVInvrtu5qGf8jcnllGw
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/.git/HEAD
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQwZGSfK6PkC81m2K
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/tmp/
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQ5ZGTF7sk76mQCrFG4P6Kzrd9He50Ce1G78ua
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/postgres/
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUyZGRqHxYXWz4dpGg5
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/.htaccess
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUwZGTPbkU0k5pARIkMeIen8TIKa7hAYE803l8fT9TW10cqmQ
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/db.php
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUzZGQ32ibed4
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/phpinfo.php
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDc5ZGTbC82kqmahuThTPp86tmvtIo5atQgI9VFW1ymKseaYlw
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/debug.log
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDgxZGTu2bEC
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/debug.log
+Service: hex_key
+Key: vmvPOXo7VeadoB0c4XVk8fB52hhdzq4ijJ1Nw
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/test.php
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk2ZGRTjqyuLZDlqxxhpTep8Jr9VklkOLX5ZRjVx1iXL277dg
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/.env.prod
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk4ZGRkf
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/config.ini
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTAwZGQX0c5BMri7bTzJkUZcMlT87np0ODX9l9Nso
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/config.php
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk5ZGT7S31uMMNXAyPruV7dUSMNvSjnwmLJ5sxcYi06NVX6Bw
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/.git/
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTIyZGRpYX9ZJU8Rfgo304EhIgscx5cSq
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/access_log
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTQ5ZGS
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/.env.local
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTYxZGTnWcmUeDgpNCRK5EObmIbnY9gdsFLI4Y1NaeFb4MG0ZQ
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/entertainment
+Service: hex_key
+Key: eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/entertainment
+Service: hex_key
+Key: 7gcy23wq2h56kv997zvb5rrun8gatcd3
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/entertainment
+Service: hex_key
+Key: 733d1c3630e70e0f688a84bd6f3662a7
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/entertainment
+Service: hex_key
+Key: eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/entertainment
+Service: hex_key
+Key: PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/entertainment
+Service: hex_key
+Key: c4433875000248c68b996b8e34503a0b
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/entertainment
+Service: hex_key
+Key: MultiArticleManualeChannelsComponenta1280
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/entertainment
+Service: hex_key
+Key: e45439a1b8f4475dbdbb48fa4f9b1609
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/entertainment
+Service: hex_key
+Key: nisnutl79n0hiqsba35jgv6u0k4utk0m
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/status.php
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTkwZGQrcoNpn7xT7Xw3jCBGCD8TQBJpKxNTTzGfx5tgkXmm4Q
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/News
+Service: hex_key
+Key: eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/News
+Service: hex_key
+Key: 7gcy23wq2h56kv997zvb5rrun8gatcd3
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/News
+Service: hex_key
+Key: 733d1c3630e70e0f688a84bd6f3662a7
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/News
+Service: hex_key
+Key: eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/News
+Service: hex_key
+Key: PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/News
+Service: hex_key
+Key: MultiImagesMagazineSquareComponenta
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/News
+Service: hex_key
+Key: c4433875000248c68b996b8e34503a0b
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/News
+Service: hex_key
+Key: MultiArticleManualeChannelsComponenta1280
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/News
+Service: hex_key
+Key: e45439a1b8f4475dbdbb48fa4f9b1609
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/News
+Service: hex_key
+Key: nisnutl79n0hiqsba35jgv6u0k4utk0m
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/settings.env
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEyZGSupAgEksYTPUXdsd2uAIQsXaWJ0ORlhU2Ql7V
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/phpmyadmin/
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEzZGSmIDrrCNehcfJpVR19BpiZl1DaS3vGiMDI6XfTgfJQLw
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/data.sql
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ1ZGSFnsf3sEg1c
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/data.sql
+Service: hex_key
+Key: XuTaWSSSlCk9paC2WDhgeN2Lx5qGO5Gw
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/mysql/
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ5ZGQgpRD02d1Hmrc3YPKLAtSb9eTTCwJhM
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/backup.tar.gz
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc3ZGQWtpDGJXMDZtB
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/app.log
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc4ZGRLIzxCgXg04NyNY1yf
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/dump.sql
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc2ZGRrxOZOyhYHdX3
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/.gitignore
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzExZGTvrj
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/robots.txt
+Service: hex_key
+Key: UserIdentificationComponentIFrame
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/server-status
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzM0ZGSyj7XLLU
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/games
+Service: hex_key
+Key: eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/games
+Service: hex_key
+Key: 7gcy23wq2h56kv997zvb5rrun8gatcd3
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/games
+Service: hex_key
+Key: 733d1c3630e70e0f688a84bd6f3662a7
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/games
+Service: hex_key
+Key: eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/games
+Service: hex_key
+Key: PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/games
+Service: hex_key
+Key: c4433875000248c68b996b8e34503a0b
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/games
+Service: hex_key
+Key: MultiArticleManualeChannelsComponenta1280
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/games
+Service: hex_key
+Key: e45439a1b8f4475dbdbb48fa4f9b1609
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/games
+Service: hex_key
+Key: nisnutl79n0hiqsba35jgv6u0k4utk0m
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/sport
+Service: hex_key
+Key: eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/sport
+Service: hex_key
+Key: 7gcy23wq2h56kv997zvb5rrun8gatcd3
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/sport
+Service: hex_key
+Key: 733d1c3630e70e0f688a84bd6f3662a7
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/sport
+Service: hex_key
+Key: eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/sport
+Service: hex_key
+Key: PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/sport
+Service: hex_key
+Key: MultiArticleManualeChannelsComponenta1280
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/sport
+Service: hex_key
+Key: c4433875000248c68b996b8e34503a0b
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/sport
+Service: hex_key
+Key: e45439a1b8f4475dbdbb48fa4f9b1609
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/sport
+Service: hex_key
+Key: nisnutl79n0hiqsba35jgv6u0k4utk0m
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/settings.ini
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzUzZGS1fEWDO3xB
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/log/
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzU0ZGSkem0
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/test/
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzYzZGQ3yhds
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/wp-login.php
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzc1ZGTiqY9Ru5iM1
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/wp-login.php
+Service: hex_key
+Key: c9mOAICM3UYLWRvDMYlPNv1hRHiJvmmQ
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/debug.php
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgzZGRz1EywqquzKspBRqzFbA5E2l09M6WREm9ovRt7cwv0vQ
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/composer.lock
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgxZGRtK0IJRoieaYxr7r42nq7tJZfIfp
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/config.json
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgyZGS7Qd4JUjU09TvLLfVBlh0ZMyyVXym9kGjCtNcn7XxLcg
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/health
+Service: hex_key
+Key: eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/health
+Service: hex_key
+Key: 7gcy23wq2h56kv997zvb5rrun8gatcd3
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/health
+Service: hex_key
+Key: 733d1c3630e70e0f688a84bd6f3662a7
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/health
+Service: hex_key
+Key: eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/health
+Service: hex_key
+Key: PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/health
+Service: hex_key
+Key: c4433875000248c68b996b8e34503a0b
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/health
+Service: hex_key
+Key: MultiArticleManualeChannelsComponenta1280
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/health
+Service: hex_key
+Key: e45439a1b8f4475dbdbb48fa4f9b1609
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/health
+Service: hex_key
+Key: nisnutl79n0hiqsba35jgv6u0k4utk0m
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/database.php
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzg5ZGSkT9TzChkYHTcDFLHzyulMF56H6cjRB6KIzlxvzySIUw
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/.git/index
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk4ZGTbVI
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/backup.sql
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk5ZGT0
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/backup.sql
+Service: hex_key
+Key: cD0Ss9SKDKUCrGdHDIYJ9owg4XUGqjUvFxQnJsc6A
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/error_log
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDE1ZGRBI8JZX1naMfymBtsuPAYokDIou4Ah
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/news
+Service: hex_key
+Key: eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/news
+Service: hex_key
+Key: 7gcy23wq2h56kv997zvb5rrun8gatcd3
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/news
+Service: hex_key
+Key: 733d1c3630e70e0f688a84bd6f3662a7
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/news
+Service: hex_key
+Key: eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/news
+Service: hex_key
+Key: PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/news
+Service: hex_key
+Key: MultiImagesMagazineSquareComponenta
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/news
+Service: hex_key
+Key: c4433875000248c68b996b8e34503a0b
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/news
+Service: hex_key
+Key: MultiArticleManualeChannelsComponenta1280
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/news
+Service: hex_key
+Key: e45439a1b8f4475dbdbb48fa4f9b1609
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/news
+Service: hex_key
+Key: nisnutl79n0hiqsba35jgv6u0k4utk0m
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/radio
+Service: hex_key
+Key: eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/radio
+Service: hex_key
+Key: 7gcy23wq2h56kv997zvb5rrun8gatcd3
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/radio
+Service: hex_key
+Key: 733d1c3630e70e0f688a84bd6f3662a7
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/radio
+Service: hex_key
+Key: eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/radio
+Service: hex_key
+Key: PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/radio
+Service: hex_key
+Key: verticalVideoGalleryBepoComponent
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/radio
+Service: hex_key
+Key: 6b8d686e57134dff977f1878d76da83e
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/radio
+Service: hex_key
+Key: VerticalVideoGalleryBepoComponent
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/radio
+Service: hex_key
+Key: c4433875000248c68b996b8e34503a0b
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/radio
+Service: hex_key
+Key: MultiArticleManualeChannelsComponenta1280
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/radio
+Service: hex_key
+Key: e45439a1b8f4475dbdbb48fa4f9b1609
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/radio
+Service: hex_key
+Key: nisnutl79n0hiqsba35jgv6u0k4utk0m
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/db.sql
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDI0ZGTVi0k7dFOsrxlvOiZ31FmMPGkgKqclT0Pmrr3R67XCtw
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/temp/
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDIzZGTCz6r2tY9KEnbswgqoITeJJgdcZxykjSk5
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/config.env
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDM1ZGRS
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/database.sql
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ1ZGTBL1dsfx6BZI
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/testing/
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ0ZGTrnMPE
+Confidence: 0.85
+----------------------------------------
+Source: https://ynet.co.il/settings.php
+Service: hex_key
+Key: wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDYzZGSlL
+Confidence: 0.85
+----------------------------------------

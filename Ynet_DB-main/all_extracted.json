@@ -1,0 +1,1924 @@
+{
+  "extracted": [
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDI1ZGQQKhNbsni1CGU3ZgOUh",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/app.ini",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDI1ZGQQKhNbsni1CGU3ZgOUh",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDI1ZGQQKhNbsni1CGU3ZgOUh"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDI1ZGQQKhNbsni1CGU3ZgOUh",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/app.ini",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDI1ZGQQKhNbsni1CGU3ZgOUh",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDI1ZGQQKhNbsni1CGU3ZgOUh"
+    },
+    {
+      "value": "eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "type": "password",
+      "source_file": "https://ynet.co.il/food",
+      "context": "Token:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "confidence": 0.95,
+      "raw_line": "Token:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9"
+    },
+    {
+      "value": "eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/food",
+      "context": "Token:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "confidence": 0.85,
+      "raw_line": "Token:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9"
+    },
+    {
+      "value": "eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/food",
+      "context": "Token:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "confidence": 0.8,
+      "raw_line": "Token:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9"
+    },
+    {
+      "value": "7gcy23wq2h56kv997zvb5rrun8gatcd3",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/food",
+      "context": "API_KEY:7gcy23wq2h56kv997zvb5rrun8gatcd3",
+      "confidence": 0.85,
+      "raw_line": "API_KEY:7gcy23wq2h56kv997zvb5rrun8gatcd3"
+    },
+    {
+      "value": "7gcy23wq2h56kv997zvb5rrun8gatcd3",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/food",
+      "context": "API_KEY:7gcy23wq2h56kv997zvb5rrun8gatcd3",
+      "confidence": 0.8,
+      "raw_line": "API_KEY:7gcy23wq2h56kv997zvb5rrun8gatcd3"
+    },
+    {
+      "value": "733d1c3630e70e0f688a84bd6f3662a7",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/food",
+      "context": "generic_key:733d1c3630e70e0f688a84bd6f3662a7",
+      "confidence": 0.85,
+      "raw_line": "generic_key:733d1c3630e70e0f688a84bd6f3662a7"
+    },
+    {
+      "value": "733d1c3630e70e0f688a84bd6f3662a7",
+      "type": "hash",
+      "source_file": "https://ynet.co.il/food",
+      "context": "generic_key:733d1c3630e70e0f688a84bd6f3662a7",
+      "confidence": 0.8,
+      "raw_line": "generic_key:733d1c3630e70e0f688a84bd6f3662a7"
+    },
+    {
+      "value": "733d1c3630e70e0f688a84bd6f3662a7",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/food",
+      "context": "generic_key:733d1c3630e70e0f688a84bd6f3662a7",
+      "confidence": 0.8,
+      "raw_line": "generic_key:733d1c3630e70e0f688a84bd6f3662a7"
+    },
+    {
+      "value": "eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/food",
+      "context": "generic_key:eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9",
+      "confidence": 0.85,
+      "raw_line": "generic_key:eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9"
+    },
+    {
+      "value": "eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/food",
+      "context": "generic_key:eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9",
+      "confidence": 0.8,
+      "raw_line": "generic_key:eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9"
+    },
+    {
+      "value": "PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/food",
+      "context": "generic_key:PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA",
+      "confidence": 0.85,
+      "raw_line": "generic_key:PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA"
+    },
+    {
+      "value": "PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/food",
+      "context": "generic_key:PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA",
+      "confidence": 0.8,
+      "raw_line": "generic_key:PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA"
+    },
+    {
+      "value": "c4433875000248c68b996b8e34503a0b",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/food",
+      "context": "generic_key:c4433875000248c68b996b8e34503a0b",
+      "confidence": 0.85,
+      "raw_line": "generic_key:c4433875000248c68b996b8e34503a0b"
+    },
+    {
+      "value": "c4433875000248c68b996b8e34503a0b",
+      "type": "hash",
+      "source_file": "https://ynet.co.il/food",
+      "context": "generic_key:c4433875000248c68b996b8e34503a0b",
+      "confidence": 0.8,
+      "raw_line": "generic_key:c4433875000248c68b996b8e34503a0b"
+    },
+    {
+      "value": "c4433875000248c68b996b8e34503a0b",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/food",
+      "context": "generic_key:c4433875000248c68b996b8e34503a0b",
+      "confidence": 0.8,
+      "raw_line": "generic_key:c4433875000248c68b996b8e34503a0b"
+    },
+    {
+      "value": "MultiArticleManualeChannelsComponenta1280",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/food",
+      "context": "generic_key:MultiArticleManualeChannelsComponenta1280",
+      "confidence": 0.85,
+      "raw_line": "generic_key:MultiArticleManualeChannelsComponenta1280"
+    },
+    {
+      "value": "MultiArticleManualeChannelsComponenta1280",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/food",
+      "context": "generic_key:MultiArticleManualeChannelsComponenta1280",
+      "confidence": 0.8,
+      "raw_line": "generic_key:MultiArticleManualeChannelsComponenta1280"
+    },
+    {
+      "value": "e45439a1b8f4475dbdbb48fa4f9b1609",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/food",
+      "context": "generic_key:e45439a1b8f4475dbdbb48fa4f9b1609",
+      "confidence": 0.85,
+      "raw_line": "generic_key:e45439a1b8f4475dbdbb48fa4f9b1609"
+    },
+    {
+      "value": "e45439a1b8f4475dbdbb48fa4f9b1609",
+      "type": "hash",
+      "source_file": "https://ynet.co.il/food",
+      "context": "generic_key:e45439a1b8f4475dbdbb48fa4f9b1609",
+      "confidence": 0.8,
+      "raw_line": "generic_key:e45439a1b8f4475dbdbb48fa4f9b1609"
+    },
+    {
+      "value": "e45439a1b8f4475dbdbb48fa4f9b1609",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/food",
+      "context": "generic_key:e45439a1b8f4475dbdbb48fa4f9b1609",
+      "confidence": 0.8,
+      "raw_line": "generic_key:e45439a1b8f4475dbdbb48fa4f9b1609"
+    },
+    {
+      "value": "nisnutl79n0hiqsba35jgv6u0k4utk0m",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/food",
+      "context": "generic_key:nisnutl79n0hiqsba35jgv6u0k4utk0m",
+      "confidence": 0.85,
+      "raw_line": "generic_key:nisnutl79n0hiqsba35jgv6u0k4utk0m"
+    },
+    {
+      "value": "nisnutl79n0hiqsba35jgv6u0k4utk0m",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/food",
+      "context": "generic_key:nisnutl79n0hiqsba35jgv6u0k4utk0m",
+      "confidence": 0.8,
+      "raw_line": "generic_key:nisnutl79n0hiqsba35jgv6u0k4utk0m"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDMxZGTacHMMFss1sakWgB0ItkA2yMyVInvrtu5qGf8jcnllGw",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/.htpasswd",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDMxZGTacHMMFss1sakWgB0ItkA2yMyVInvrtu5qGf8jcnllGw",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDMxZGTacHMMFss1sakWgB0ItkA2yMyVInvrtu5qGf8jcnllGw"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDMxZGTacHMMFss1sakWgB0ItkA2yMyVInvrtu5qGf8jcnllGw",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/.htpasswd",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDMxZGTacHMMFss1sakWgB0ItkA2yMyVInvrtu5qGf8jcnllGw",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDMxZGTacHMMFss1sakWgB0ItkA2yMyVInvrtu5qGf8jcnllGw"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQwZGSfK6PkC81m2K",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/.git/HEAD",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQwZGSfK6PkC81m2K",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQwZGSfK6PkC81m2K"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQwZGSfK6PkC81m2K",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/.git/HEAD",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQwZGSfK6PkC81m2K",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQwZGSfK6PkC81m2K"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQ5ZGTF7sk76mQCrFG4P6Kzrd9He50Ce1G78ua",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/tmp/",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQ5ZGTF7sk76mQCrFG4P6Kzrd9He50Ce1G78ua",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQ5ZGTF7sk76mQCrFG4P6Kzrd9He50Ce1G78ua"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQ5ZGTF7sk76mQCrFG4P6Kzrd9He50Ce1G78ua",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/tmp/",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQ5ZGTF7sk76mQCrFG4P6Kzrd9He50Ce1G78ua",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQ5ZGTF7sk76mQCrFG4P6Kzrd9He50Ce1G78ua"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUyZGRqHxYXWz4dpGg5",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/postgres/",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUyZGRqHxYXWz4dpGg5",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUyZGRqHxYXWz4dpGg5"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUyZGRqHxYXWz4dpGg5",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/postgres/",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUyZGRqHxYXWz4dpGg5",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUyZGRqHxYXWz4dpGg5"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUwZGTPbkU0k5pARIkMeIen8TIKa7hAYE803l8fT9TW10cqmQ",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/.htaccess",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUwZGTPbkU0k5pARIkMeIen8TIKa7hAYE803l8fT9TW10cqmQ",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUwZGTPbkU0k5pARIkMeIen8TIKa7hAYE803l8fT9TW10cqmQ"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUwZGTPbkU0k5pARIkMeIen8TIKa7hAYE803l8fT9TW10cqmQ",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/.htaccess",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUwZGTPbkU0k5pARIkMeIen8TIKa7hAYE803l8fT9TW10cqmQ",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUwZGTPbkU0k5pARIkMeIen8TIKa7hAYE803l8fT9TW10cqmQ"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUzZGQ32ibed4",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/db.php",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUzZGQ32ibed4",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUzZGQ32ibed4"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUzZGQ32ibed4",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/db.php",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUzZGQ32ibed4",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUzZGQ32ibed4"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDc5ZGTbC82kqmahuThTPp86tmvtIo5atQgI9VFW1ymKseaYlw",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/phpinfo.php",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDc5ZGTbC82kqmahuThTPp86tmvtIo5atQgI9VFW1ymKseaYlw",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDc5ZGTbC82kqmahuThTPp86tmvtIo5atQgI9VFW1ymKseaYlw"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDc5ZGTbC82kqmahuThTPp86tmvtIo5atQgI9VFW1ymKseaYlw",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/phpinfo.php",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDc5ZGTbC82kqmahuThTPp86tmvtIo5atQgI9VFW1ymKseaYlw",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDc5ZGTbC82kqmahuThTPp86tmvtIo5atQgI9VFW1ymKseaYlw"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDgxZGTu2bEC",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/debug.log",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDgxZGTu2bEC",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDgxZGTu2bEC"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDgxZGTu2bEC",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/debug.log",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDgxZGTu2bEC",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDgxZGTu2bEC"
+    },
+    {
+      "value": "vmvPOXo7VeadoB0c4XVk8fB52hhdzq4ijJ1Nw",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/debug.log",
+      "context": "generic_key:vmvPOXo7VeadoB0c4XVk8fB52hhdzq4ijJ1Nw",
+      "confidence": 0.85,
+      "raw_line": "generic_key:vmvPOXo7VeadoB0c4XVk8fB52hhdzq4ijJ1Nw"
+    },
+    {
+      "value": "vmvPOXo7VeadoB0c4XVk8fB52hhdzq4ijJ1Nw",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/debug.log",
+      "context": "generic_key:vmvPOXo7VeadoB0c4XVk8fB52hhdzq4ijJ1Nw",
+      "confidence": 0.8,
+      "raw_line": "generic_key:vmvPOXo7VeadoB0c4XVk8fB52hhdzq4ijJ1Nw"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk2ZGRTjqyuLZDlqxxhpTep8Jr9VklkOLX5ZRjVx1iXL277dg",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/test.php",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk2ZGRTjqyuLZDlqxxhpTep8Jr9VklkOLX5ZRjVx1iXL277dg",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk2ZGRTjqyuLZDlqxxhpTep8Jr9VklkOLX5ZRjVx1iXL277dg"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk2ZGRTjqyuLZDlqxxhpTep8Jr9VklkOLX5ZRjVx1iXL277dg",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/test.php",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk2ZGRTjqyuLZDlqxxhpTep8Jr9VklkOLX5ZRjVx1iXL277dg",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk2ZGRTjqyuLZDlqxxhpTep8Jr9VklkOLX5ZRjVx1iXL277dg"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk4ZGRkf",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/.env.prod",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk4ZGRkf",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk4ZGRkf"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk4ZGRkf",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/.env.prod",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk4ZGRkf",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk4ZGRkf"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTAwZGQX0c5BMri7bTzJkUZcMlT87np0ODX9l9Nso",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/config.ini",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTAwZGQX0c5BMri7bTzJkUZcMlT87np0ODX9l9Nso",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTAwZGQX0c5BMri7bTzJkUZcMlT87np0ODX9l9Nso"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTAwZGQX0c5BMri7bTzJkUZcMlT87np0ODX9l9Nso",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/config.ini",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTAwZGQX0c5BMri7bTzJkUZcMlT87np0ODX9l9Nso",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTAwZGQX0c5BMri7bTzJkUZcMlT87np0ODX9l9Nso"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk5ZGT7S31uMMNXAyPruV7dUSMNvSjnwmLJ5sxcYi06NVX6Bw",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/config.php",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk5ZGT7S31uMMNXAyPruV7dUSMNvSjnwmLJ5sxcYi06NVX6Bw",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk5ZGT7S31uMMNXAyPruV7dUSMNvSjnwmLJ5sxcYi06NVX6Bw"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk5ZGT7S31uMMNXAyPruV7dUSMNvSjnwmLJ5sxcYi06NVX6Bw",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/config.php",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk5ZGT7S31uMMNXAyPruV7dUSMNvSjnwmLJ5sxcYi06NVX6Bw",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk5ZGT7S31uMMNXAyPruV7dUSMNvSjnwmLJ5sxcYi06NVX6Bw"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTIyZGRpYX9ZJU8Rfgo304EhIgscx5cSq",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/.git/",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTIyZGRpYX9ZJU8Rfgo304EhIgscx5cSq",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTIyZGRpYX9ZJU8Rfgo304EhIgscx5cSq"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTIyZGRpYX9ZJU8Rfgo304EhIgscx5cSq",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/.git/",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTIyZGRpYX9ZJU8Rfgo304EhIgscx5cSq",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTIyZGRpYX9ZJU8Rfgo304EhIgscx5cSq"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTQ5ZGS",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/access_log",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTQ5ZGS",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTQ5ZGS"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTQ5ZGS",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/access_log",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTQ5ZGS",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTQ5ZGS"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTYxZGTnWcmUeDgpNCRK5EObmIbnY9gdsFLI4Y1NaeFb4MG0ZQ",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/.env.local",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTYxZGTnWcmUeDgpNCRK5EObmIbnY9gdsFLI4Y1NaeFb4MG0ZQ",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTYxZGTnWcmUeDgpNCRK5EObmIbnY9gdsFLI4Y1NaeFb4MG0ZQ"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTYxZGTnWcmUeDgpNCRK5EObmIbnY9gdsFLI4Y1NaeFb4MG0ZQ",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/.env.local",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTYxZGTnWcmUeDgpNCRK5EObmIbnY9gdsFLI4Y1NaeFb4MG0ZQ",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTYxZGTnWcmUeDgpNCRK5EObmIbnY9gdsFLI4Y1NaeFb4MG0ZQ"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTkwZGQrcoNpn7xT7Xw3jCBGCD8TQBJpKxNTTzGfx5tgkXmm4Q",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/status.php",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTkwZGQrcoNpn7xT7Xw3jCBGCD8TQBJpKxNTTzGfx5tgkXmm4Q",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTkwZGQrcoNpn7xT7Xw3jCBGCD8TQBJpKxNTTzGfx5tgkXmm4Q"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTkwZGQrcoNpn7xT7Xw3jCBGCD8TQBJpKxNTTzGfx5tgkXmm4Q",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/status.php",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTkwZGQrcoNpn7xT7Xw3jCBGCD8TQBJpKxNTTzGfx5tgkXmm4Q",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTkwZGQrcoNpn7xT7Xw3jCBGCD8TQBJpKxNTTzGfx5tgkXmm4Q"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEyZGSupAgEksYTPUXdsd2uAIQsXaWJ0ORlhU2Ql7V",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/settings.env",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEyZGSupAgEksYTPUXdsd2uAIQsXaWJ0ORlhU2Ql7V",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEyZGSupAgEksYTPUXdsd2uAIQsXaWJ0ORlhU2Ql7V"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEyZGSupAgEksYTPUXdsd2uAIQsXaWJ0ORlhU2Ql7V",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/settings.env",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEyZGSupAgEksYTPUXdsd2uAIQsXaWJ0ORlhU2Ql7V",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEyZGSupAgEksYTPUXdsd2uAIQsXaWJ0ORlhU2Ql7V"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEzZGSmIDrrCNehcfJpVR19BpiZl1DaS3vGiMDI6XfTgfJQLw",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/phpmyadmin/",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEzZGSmIDrrCNehcfJpVR19BpiZl1DaS3vGiMDI6XfTgfJQLw",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEzZGSmIDrrCNehcfJpVR19BpiZl1DaS3vGiMDI6XfTgfJQLw"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEzZGSmIDrrCNehcfJpVR19BpiZl1DaS3vGiMDI6XfTgfJQLw",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/phpmyadmin/",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEzZGSmIDrrCNehcfJpVR19BpiZl1DaS3vGiMDI6XfTgfJQLw",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEzZGSmIDrrCNehcfJpVR19BpiZl1DaS3vGiMDI6XfTgfJQLw"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ1ZGSFnsf3sEg1c",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/data.sql",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ1ZGSFnsf3sEg1c",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ1ZGSFnsf3sEg1c"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ1ZGSFnsf3sEg1c",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/data.sql",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ1ZGSFnsf3sEg1c",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ1ZGSFnsf3sEg1c"
+    },
+    {
+      "value": "XuTaWSSSlCk9paC2WDhgeN2Lx5qGO5Gw",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/data.sql",
+      "context": "generic_key:XuTaWSSSlCk9paC2WDhgeN2Lx5qGO5Gw",
+      "confidence": 0.85,
+      "raw_line": "generic_key:XuTaWSSSlCk9paC2WDhgeN2Lx5qGO5Gw"
+    },
+    {
+      "value": "XuTaWSSSlCk9paC2WDhgeN2Lx5qGO5Gw",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/data.sql",
+      "context": "generic_key:XuTaWSSSlCk9paC2WDhgeN2Lx5qGO5Gw",
+      "confidence": 0.8,
+      "raw_line": "generic_key:XuTaWSSSlCk9paC2WDhgeN2Lx5qGO5Gw"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ5ZGQgpRD02d1Hmrc3YPKLAtSb9eTTCwJhM",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/mysql/",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ5ZGQgpRD02d1Hmrc3YPKLAtSb9eTTCwJhM",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ5ZGQgpRD02d1Hmrc3YPKLAtSb9eTTCwJhM"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ5ZGQgpRD02d1Hmrc3YPKLAtSb9eTTCwJhM",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/mysql/",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ5ZGQgpRD02d1Hmrc3YPKLAtSb9eTTCwJhM",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ5ZGQgpRD02d1Hmrc3YPKLAtSb9eTTCwJhM"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc3ZGQWtpDGJXMDZtB",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/backup.tar.gz",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc3ZGQWtpDGJXMDZtB",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc3ZGQWtpDGJXMDZtB"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc3ZGQWtpDGJXMDZtB",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/backup.tar.gz",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc3ZGQWtpDGJXMDZtB",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc3ZGQWtpDGJXMDZtB"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc4ZGRLIzxCgXg04NyNY1yf",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/app.log",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc4ZGRLIzxCgXg04NyNY1yf",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc4ZGRLIzxCgXg04NyNY1yf"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc4ZGRLIzxCgXg04NyNY1yf",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/app.log",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc4ZGRLIzxCgXg04NyNY1yf",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc4ZGRLIzxCgXg04NyNY1yf"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc2ZGRrxOZOyhYHdX3",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/dump.sql",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc2ZGRrxOZOyhYHdX3",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc2ZGRrxOZOyhYHdX3"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc2ZGRrxOZOyhYHdX3",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/dump.sql",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc2ZGRrxOZOyhYHdX3",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc2ZGRrxOZOyhYHdX3"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzExZGTvrj",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/.gitignore",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzExZGTvrj",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzExZGTvrj"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzExZGTvrj",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/.gitignore",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzExZGTvrj",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzExZGTvrj"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzM0ZGSyj7XLLU",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/server-status",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzM0ZGSyj7XLLU",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzM0ZGSyj7XLLU"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzM0ZGSyj7XLLU",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/server-status",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzM0ZGSyj7XLLU",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzM0ZGSyj7XLLU"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzUzZGS1fEWDO3xB",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/settings.ini",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzUzZGS1fEWDO3xB",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzUzZGS1fEWDO3xB"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzUzZGS1fEWDO3xB",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/settings.ini",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzUzZGS1fEWDO3xB",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzUzZGS1fEWDO3xB"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzU0ZGSkem0",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/log/",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzU0ZGSkem0",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzU0ZGSkem0"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzU0ZGSkem0",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/log/",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzU0ZGSkem0",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzU0ZGSkem0"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzYzZGQ3yhds",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/test/",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzYzZGQ3yhds",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzYzZGQ3yhds"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzYzZGQ3yhds",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/test/",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzYzZGQ3yhds",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzYzZGQ3yhds"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzc1ZGTiqY9Ru5iM1",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/wp-login.php",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzc1ZGTiqY9Ru5iM1",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzc1ZGTiqY9Ru5iM1"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzc1ZGTiqY9Ru5iM1",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/wp-login.php",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzc1ZGTiqY9Ru5iM1",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzc1ZGTiqY9Ru5iM1"
+    },
+    {
+      "value": "c9mOAICM3UYLWRvDMYlPNv1hRHiJvmmQ",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/wp-login.php",
+      "context": "generic_key:c9mOAICM3UYLWRvDMYlPNv1hRHiJvmmQ",
+      "confidence": 0.85,
+      "raw_line": "generic_key:c9mOAICM3UYLWRvDMYlPNv1hRHiJvmmQ"
+    },
+    {
+      "value": "c9mOAICM3UYLWRvDMYlPNv1hRHiJvmmQ",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/wp-login.php",
+      "context": "generic_key:c9mOAICM3UYLWRvDMYlPNv1hRHiJvmmQ",
+      "confidence": 0.8,
+      "raw_line": "generic_key:c9mOAICM3UYLWRvDMYlPNv1hRHiJvmmQ"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgzZGRz1EywqquzKspBRqzFbA5E2l09M6WREm9ovRt7cwv0vQ",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/debug.php",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgzZGRz1EywqquzKspBRqzFbA5E2l09M6WREm9ovRt7cwv0vQ",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgzZGRz1EywqquzKspBRqzFbA5E2l09M6WREm9ovRt7cwv0vQ"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgzZGRz1EywqquzKspBRqzFbA5E2l09M6WREm9ovRt7cwv0vQ",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/debug.php",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgzZGRz1EywqquzKspBRqzFbA5E2l09M6WREm9ovRt7cwv0vQ",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgzZGRz1EywqquzKspBRqzFbA5E2l09M6WREm9ovRt7cwv0vQ"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgxZGRtK0IJRoieaYxr7r42nq7tJZfIfp",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/composer.lock",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgxZGRtK0IJRoieaYxr7r42nq7tJZfIfp",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgxZGRtK0IJRoieaYxr7r42nq7tJZfIfp"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgxZGRtK0IJRoieaYxr7r42nq7tJZfIfp",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/composer.lock",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgxZGRtK0IJRoieaYxr7r42nq7tJZfIfp",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgxZGRtK0IJRoieaYxr7r42nq7tJZfIfp"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgyZGS7Qd4JUjU09TvLLfVBlh0ZMyyVXym9kGjCtNcn7XxLcg",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/config.json",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgyZGS7Qd4JUjU09TvLLfVBlh0ZMyyVXym9kGjCtNcn7XxLcg",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgyZGS7Qd4JUjU09TvLLfVBlh0ZMyyVXym9kGjCtNcn7XxLcg"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgyZGS7Qd4JUjU09TvLLfVBlh0ZMyyVXym9kGjCtNcn7XxLcg",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/config.json",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgyZGS7Qd4JUjU09TvLLfVBlh0ZMyyVXym9kGjCtNcn7XxLcg",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgyZGS7Qd4JUjU09TvLLfVBlh0ZMyyVXym9kGjCtNcn7XxLcg"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzg5ZGSkT9TzChkYHTcDFLHzyulMF56H6cjRB6KIzlxvzySIUw",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/database.php",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzg5ZGSkT9TzChkYHTcDFLHzyulMF56H6cjRB6KIzlxvzySIUw",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzg5ZGSkT9TzChkYHTcDFLHzyulMF56H6cjRB6KIzlxvzySIUw"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzg5ZGSkT9TzChkYHTcDFLHzyulMF56H6cjRB6KIzlxvzySIUw",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/database.php",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzg5ZGSkT9TzChkYHTcDFLHzyulMF56H6cjRB6KIzlxvzySIUw",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzg5ZGSkT9TzChkYHTcDFLHzyulMF56H6cjRB6KIzlxvzySIUw"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk4ZGTbVI",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/.git/index",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk4ZGTbVI",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk4ZGTbVI"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk4ZGTbVI",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/.git/index",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk4ZGTbVI",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk4ZGTbVI"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk5ZGT0",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/backup.sql",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk5ZGT0",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk5ZGT0"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk5ZGT0",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/backup.sql",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk5ZGT0",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk5ZGT0"
+    },
+    {
+      "value": "cD0Ss9SKDKUCrGdHDIYJ9owg4XUGqjUvFxQnJsc6A",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/backup.sql",
+      "context": "generic_key:cD0Ss9SKDKUCrGdHDIYJ9owg4XUGqjUvFxQnJsc6A",
+      "confidence": 0.85,
+      "raw_line": "generic_key:cD0Ss9SKDKUCrGdHDIYJ9owg4XUGqjUvFxQnJsc6A"
+    },
+    {
+      "value": "cD0Ss9SKDKUCrGdHDIYJ9owg4XUGqjUvFxQnJsc6A",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/backup.sql",
+      "context": "generic_key:cD0Ss9SKDKUCrGdHDIYJ9owg4XUGqjUvFxQnJsc6A",
+      "confidence": 0.8,
+      "raw_line": "generic_key:cD0Ss9SKDKUCrGdHDIYJ9owg4XUGqjUvFxQnJsc6A"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDE1ZGRBI8JZX1naMfymBtsuPAYokDIou4Ah",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/error_log",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDE1ZGRBI8JZX1naMfymBtsuPAYokDIou4Ah",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDE1ZGRBI8JZX1naMfymBtsuPAYokDIou4Ah"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDE1ZGRBI8JZX1naMfymBtsuPAYokDIou4Ah",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/error_log",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDE1ZGRBI8JZX1naMfymBtsuPAYokDIou4Ah",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDE1ZGRBI8JZX1naMfymBtsuPAYokDIou4Ah"
+    },
+    {
+      "value": "6b8d686e57134dff977f1878d76da83e",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/radio",
+      "context": "generic_key:6b8d686e57134dff977f1878d76da83e",
+      "confidence": 0.85,
+      "raw_line": "generic_key:6b8d686e57134dff977f1878d76da83e"
+    },
+    {
+      "value": "6b8d686e57134dff977f1878d76da83e",
+      "type": "hash",
+      "source_file": "https://ynet.co.il/radio",
+      "context": "generic_key:6b8d686e57134dff977f1878d76da83e",
+      "confidence": 0.8,
+      "raw_line": "generic_key:6b8d686e57134dff977f1878d76da83e"
+    },
+    {
+      "value": "6b8d686e57134dff977f1878d76da83e",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/radio",
+      "context": "generic_key:6b8d686e57134dff977f1878d76da83e",
+      "confidence": 0.8,
+      "raw_line": "generic_key:6b8d686e57134dff977f1878d76da83e"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDI0ZGTVi0k7dFOsrxlvOiZ31FmMPGkgKqclT0Pmrr3R67XCtw",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/db.sql",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDI0ZGTVi0k7dFOsrxlvOiZ31FmMPGkgKqclT0Pmrr3R67XCtw",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDI0ZGTVi0k7dFOsrxlvOiZ31FmMPGkgKqclT0Pmrr3R67XCtw"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDI0ZGTVi0k7dFOsrxlvOiZ31FmMPGkgKqclT0Pmrr3R67XCtw",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/db.sql",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDI0ZGTVi0k7dFOsrxlvOiZ31FmMPGkgKqclT0Pmrr3R67XCtw",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDI0ZGTVi0k7dFOsrxlvOiZ31FmMPGkgKqclT0Pmrr3R67XCtw"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDIzZGTCz6r2tY9KEnbswgqoITeJJgdcZxykjSk5",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/temp/",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDIzZGTCz6r2tY9KEnbswgqoITeJJgdcZxykjSk5",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDIzZGTCz6r2tY9KEnbswgqoITeJJgdcZxykjSk5"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDIzZGTCz6r2tY9KEnbswgqoITeJJgdcZxykjSk5",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/temp/",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDIzZGTCz6r2tY9KEnbswgqoITeJJgdcZxykjSk5",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDIzZGTCz6r2tY9KEnbswgqoITeJJgdcZxykjSk5"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDM1ZGRS",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/config.env",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDM1ZGRS",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDM1ZGRS"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDM1ZGRS",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/config.env",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDM1ZGRS",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDM1ZGRS"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ1ZGTBL1dsfx6BZI",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/database.sql",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ1ZGTBL1dsfx6BZI",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ1ZGTBL1dsfx6BZI"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ1ZGTBL1dsfx6BZI",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/database.sql",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ1ZGTBL1dsfx6BZI",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ1ZGTBL1dsfx6BZI"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ0ZGTrnMPE",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/testing/",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ0ZGTrnMPE",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ0ZGTrnMPE"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ0ZGTrnMPE",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/testing/",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ0ZGTrnMPE",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ0ZGTrnMPE"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDYzZGSlL",
+      "type": "api_key",
+      "source_file": "https://ynet.co.il/settings.php",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDYzZGSlL",
+      "confidence": 0.85,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDYzZGSlL"
+    },
+    {
+      "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDYzZGSlL",
+      "type": "base64",
+      "source_file": "https://ynet.co.il/settings.php",
+      "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDYzZGSlL",
+      "confidence": 0.8,
+      "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDYzZGSlL"
+    }
+  ],
+  "by_type": {
+    "api_key": [
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDI1ZGQQKhNbsni1CGU3ZgOUh",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/app.ini",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDI1ZGQQKhNbsni1CGU3ZgOUh",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDI1ZGQQKhNbsni1CGU3ZgOUh"
+      },
+      {
+        "value": "eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/food",
+        "context": "Token:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+        "confidence": 0.85,
+        "raw_line": "Token:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9"
+      },
+      {
+        "value": "7gcy23wq2h56kv997zvb5rrun8gatcd3",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/food",
+        "context": "API_KEY:7gcy23wq2h56kv997zvb5rrun8gatcd3",
+        "confidence": 0.85,
+        "raw_line": "API_KEY:7gcy23wq2h56kv997zvb5rrun8gatcd3"
+      },
+      {
+        "value": "733d1c3630e70e0f688a84bd6f3662a7",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/food",
+        "context": "generic_key:733d1c3630e70e0f688a84bd6f3662a7",
+        "confidence": 0.85,
+        "raw_line": "generic_key:733d1c3630e70e0f688a84bd6f3662a7"
+      },
+      {
+        "value": "eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/food",
+        "context": "generic_key:eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9",
+        "confidence": 0.85,
+        "raw_line": "generic_key:eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9"
+      },
+      {
+        "value": "PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/food",
+        "context": "generic_key:PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA",
+        "confidence": 0.85,
+        "raw_line": "generic_key:PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA"
+      },
+      {
+        "value": "c4433875000248c68b996b8e34503a0b",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/food",
+        "context": "generic_key:c4433875000248c68b996b8e34503a0b",
+        "confidence": 0.85,
+        "raw_line": "generic_key:c4433875000248c68b996b8e34503a0b"
+      },
+      {
+        "value": "MultiArticleManualeChannelsComponenta1280",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/food",
+        "context": "generic_key:MultiArticleManualeChannelsComponenta1280",
+        "confidence": 0.85,
+        "raw_line": "generic_key:MultiArticleManualeChannelsComponenta1280"
+      },
+      {
+        "value": "e45439a1b8f4475dbdbb48fa4f9b1609",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/food",
+        "context": "generic_key:e45439a1b8f4475dbdbb48fa4f9b1609",
+        "confidence": 0.85,
+        "raw_line": "generic_key:e45439a1b8f4475dbdbb48fa4f9b1609"
+      },
+      {
+        "value": "nisnutl79n0hiqsba35jgv6u0k4utk0m",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/food",
+        "context": "generic_key:nisnutl79n0hiqsba35jgv6u0k4utk0m",
+        "confidence": 0.85,
+        "raw_line": "generic_key:nisnutl79n0hiqsba35jgv6u0k4utk0m"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDMxZGTacHMMFss1sakWgB0ItkA2yMyVInvrtu5qGf8jcnllGw",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/.htpasswd",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDMxZGTacHMMFss1sakWgB0ItkA2yMyVInvrtu5qGf8jcnllGw",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDMxZGTacHMMFss1sakWgB0ItkA2yMyVInvrtu5qGf8jcnllGw"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQwZGSfK6PkC81m2K",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/.git/HEAD",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQwZGSfK6PkC81m2K",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQwZGSfK6PkC81m2K"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQ5ZGTF7sk76mQCrFG4P6Kzrd9He50Ce1G78ua",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/tmp/",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQ5ZGTF7sk76mQCrFG4P6Kzrd9He50Ce1G78ua",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQ5ZGTF7sk76mQCrFG4P6Kzrd9He50Ce1G78ua"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUyZGRqHxYXWz4dpGg5",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/postgres/",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUyZGRqHxYXWz4dpGg5",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUyZGRqHxYXWz4dpGg5"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUwZGTPbkU0k5pARIkMeIen8TIKa7hAYE803l8fT9TW10cqmQ",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/.htaccess",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUwZGTPbkU0k5pARIkMeIen8TIKa7hAYE803l8fT9TW10cqmQ",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUwZGTPbkU0k5pARIkMeIen8TIKa7hAYE803l8fT9TW10cqmQ"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUzZGQ32ibed4",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/db.php",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUzZGQ32ibed4",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUzZGQ32ibed4"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDc5ZGTbC82kqmahuThTPp86tmvtIo5atQgI9VFW1ymKseaYlw",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/phpinfo.php",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDc5ZGTbC82kqmahuThTPp86tmvtIo5atQgI9VFW1ymKseaYlw",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDc5ZGTbC82kqmahuThTPp86tmvtIo5atQgI9VFW1ymKseaYlw"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDgxZGTu2bEC",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/debug.log",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDgxZGTu2bEC",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDgxZGTu2bEC"
+      },
+      {
+        "value": "vmvPOXo7VeadoB0c4XVk8fB52hhdzq4ijJ1Nw",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/debug.log",
+        "context": "generic_key:vmvPOXo7VeadoB0c4XVk8fB52hhdzq4ijJ1Nw",
+        "confidence": 0.85,
+        "raw_line": "generic_key:vmvPOXo7VeadoB0c4XVk8fB52hhdzq4ijJ1Nw"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk2ZGRTjqyuLZDlqxxhpTep8Jr9VklkOLX5ZRjVx1iXL277dg",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/test.php",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk2ZGRTjqyuLZDlqxxhpTep8Jr9VklkOLX5ZRjVx1iXL277dg",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk2ZGRTjqyuLZDlqxxhpTep8Jr9VklkOLX5ZRjVx1iXL277dg"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk4ZGRkf",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/.env.prod",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk4ZGRkf",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk4ZGRkf"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTAwZGQX0c5BMri7bTzJkUZcMlT87np0ODX9l9Nso",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/config.ini",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTAwZGQX0c5BMri7bTzJkUZcMlT87np0ODX9l9Nso",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTAwZGQX0c5BMri7bTzJkUZcMlT87np0ODX9l9Nso"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk5ZGT7S31uMMNXAyPruV7dUSMNvSjnwmLJ5sxcYi06NVX6Bw",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/config.php",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk5ZGT7S31uMMNXAyPruV7dUSMNvSjnwmLJ5sxcYi06NVX6Bw",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk5ZGT7S31uMMNXAyPruV7dUSMNvSjnwmLJ5sxcYi06NVX6Bw"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTIyZGRpYX9ZJU8Rfgo304EhIgscx5cSq",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/.git/",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTIyZGRpYX9ZJU8Rfgo304EhIgscx5cSq",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTIyZGRpYX9ZJU8Rfgo304EhIgscx5cSq"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTQ5ZGS",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/access_log",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTQ5ZGS",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTQ5ZGS"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTYxZGTnWcmUeDgpNCRK5EObmIbnY9gdsFLI4Y1NaeFb4MG0ZQ",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/.env.local",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTYxZGTnWcmUeDgpNCRK5EObmIbnY9gdsFLI4Y1NaeFb4MG0ZQ",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTYxZGTnWcmUeDgpNCRK5EObmIbnY9gdsFLI4Y1NaeFb4MG0ZQ"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTkwZGQrcoNpn7xT7Xw3jCBGCD8TQBJpKxNTTzGfx5tgkXmm4Q",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/status.php",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTkwZGQrcoNpn7xT7Xw3jCBGCD8TQBJpKxNTTzGfx5tgkXmm4Q",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTkwZGQrcoNpn7xT7Xw3jCBGCD8TQBJpKxNTTzGfx5tgkXmm4Q"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEyZGSupAgEksYTPUXdsd2uAIQsXaWJ0ORlhU2Ql7V",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/settings.env",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEyZGSupAgEksYTPUXdsd2uAIQsXaWJ0ORlhU2Ql7V",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEyZGSupAgEksYTPUXdsd2uAIQsXaWJ0ORlhU2Ql7V"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEzZGSmIDrrCNehcfJpVR19BpiZl1DaS3vGiMDI6XfTgfJQLw",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/phpmyadmin/",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEzZGSmIDrrCNehcfJpVR19BpiZl1DaS3vGiMDI6XfTgfJQLw",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEzZGSmIDrrCNehcfJpVR19BpiZl1DaS3vGiMDI6XfTgfJQLw"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ1ZGSFnsf3sEg1c",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/data.sql",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ1ZGSFnsf3sEg1c",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ1ZGSFnsf3sEg1c"
+      },
+      {
+        "value": "XuTaWSSSlCk9paC2WDhgeN2Lx5qGO5Gw",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/data.sql",
+        "context": "generic_key:XuTaWSSSlCk9paC2WDhgeN2Lx5qGO5Gw",
+        "confidence": 0.85,
+        "raw_line": "generic_key:XuTaWSSSlCk9paC2WDhgeN2Lx5qGO5Gw"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ5ZGQgpRD02d1Hmrc3YPKLAtSb9eTTCwJhM",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/mysql/",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ5ZGQgpRD02d1Hmrc3YPKLAtSb9eTTCwJhM",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ5ZGQgpRD02d1Hmrc3YPKLAtSb9eTTCwJhM"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc3ZGQWtpDGJXMDZtB",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/backup.tar.gz",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc3ZGQWtpDGJXMDZtB",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc3ZGQWtpDGJXMDZtB"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc4ZGRLIzxCgXg04NyNY1yf",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/app.log",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc4ZGRLIzxCgXg04NyNY1yf",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc4ZGRLIzxCgXg04NyNY1yf"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc2ZGRrxOZOyhYHdX3",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/dump.sql",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc2ZGRrxOZOyhYHdX3",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc2ZGRrxOZOyhYHdX3"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzExZGTvrj",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/.gitignore",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzExZGTvrj",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzExZGTvrj"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzM0ZGSyj7XLLU",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/server-status",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzM0ZGSyj7XLLU",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzM0ZGSyj7XLLU"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzUzZGS1fEWDO3xB",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/settings.ini",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzUzZGS1fEWDO3xB",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzUzZGS1fEWDO3xB"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzU0ZGSkem0",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/log/",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzU0ZGSkem0",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzU0ZGSkem0"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzYzZGQ3yhds",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/test/",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzYzZGQ3yhds",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzYzZGQ3yhds"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzc1ZGTiqY9Ru5iM1",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/wp-login.php",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzc1ZGTiqY9Ru5iM1",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzc1ZGTiqY9Ru5iM1"
+      },
+      {
+        "value": "c9mOAICM3UYLWRvDMYlPNv1hRHiJvmmQ",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/wp-login.php",
+        "context": "generic_key:c9mOAICM3UYLWRvDMYlPNv1hRHiJvmmQ",
+        "confidence": 0.85,
+        "raw_line": "generic_key:c9mOAICM3UYLWRvDMYlPNv1hRHiJvmmQ"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgzZGRz1EywqquzKspBRqzFbA5E2l09M6WREm9ovRt7cwv0vQ",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/debug.php",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgzZGRz1EywqquzKspBRqzFbA5E2l09M6WREm9ovRt7cwv0vQ",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgzZGRz1EywqquzKspBRqzFbA5E2l09M6WREm9ovRt7cwv0vQ"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgxZGRtK0IJRoieaYxr7r42nq7tJZfIfp",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/composer.lock",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgxZGRtK0IJRoieaYxr7r42nq7tJZfIfp",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgxZGRtK0IJRoieaYxr7r42nq7tJZfIfp"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgyZGS7Qd4JUjU09TvLLfVBlh0ZMyyVXym9kGjCtNcn7XxLcg",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/config.json",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgyZGS7Qd4JUjU09TvLLfVBlh0ZMyyVXym9kGjCtNcn7XxLcg",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgyZGS7Qd4JUjU09TvLLfVBlh0ZMyyVXym9kGjCtNcn7XxLcg"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzg5ZGSkT9TzChkYHTcDFLHzyulMF56H6cjRB6KIzlxvzySIUw",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/database.php",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzg5ZGSkT9TzChkYHTcDFLHzyulMF56H6cjRB6KIzlxvzySIUw",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzg5ZGSkT9TzChkYHTcDFLHzyulMF56H6cjRB6KIzlxvzySIUw"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk4ZGTbVI",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/.git/index",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk4ZGTbVI",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk4ZGTbVI"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk5ZGT0",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/backup.sql",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk5ZGT0",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk5ZGT0"
+      },
+      {
+        "value": "cD0Ss9SKDKUCrGdHDIYJ9owg4XUGqjUvFxQnJsc6A",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/backup.sql",
+        "context": "generic_key:cD0Ss9SKDKUCrGdHDIYJ9owg4XUGqjUvFxQnJsc6A",
+        "confidence": 0.85,
+        "raw_line": "generic_key:cD0Ss9SKDKUCrGdHDIYJ9owg4XUGqjUvFxQnJsc6A"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDE1ZGRBI8JZX1naMfymBtsuPAYokDIou4Ah",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/error_log",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDE1ZGRBI8JZX1naMfymBtsuPAYokDIou4Ah",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDE1ZGRBI8JZX1naMfymBtsuPAYokDIou4Ah"
+      },
+      {
+        "value": "6b8d686e57134dff977f1878d76da83e",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/radio",
+        "context": "generic_key:6b8d686e57134dff977f1878d76da83e",
+        "confidence": 0.85,
+        "raw_line": "generic_key:6b8d686e57134dff977f1878d76da83e"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDI0ZGTVi0k7dFOsrxlvOiZ31FmMPGkgKqclT0Pmrr3R67XCtw",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/db.sql",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDI0ZGTVi0k7dFOsrxlvOiZ31FmMPGkgKqclT0Pmrr3R67XCtw",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDI0ZGTVi0k7dFOsrxlvOiZ31FmMPGkgKqclT0Pmrr3R67XCtw"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDIzZGTCz6r2tY9KEnbswgqoITeJJgdcZxykjSk5",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/temp/",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDIzZGTCz6r2tY9KEnbswgqoITeJJgdcZxykjSk5",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDIzZGTCz6r2tY9KEnbswgqoITeJJgdcZxykjSk5"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDM1ZGRS",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/config.env",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDM1ZGRS",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDM1ZGRS"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ1ZGTBL1dsfx6BZI",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/database.sql",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ1ZGTBL1dsfx6BZI",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ1ZGTBL1dsfx6BZI"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ0ZGTrnMPE",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/testing/",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ0ZGTrnMPE",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ0ZGTrnMPE"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDYzZGSlL",
+        "type": "api_key",
+        "source_file": "https://ynet.co.il/settings.php",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDYzZGSlL",
+        "confidence": 0.85,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDYzZGSlL"
+      }
+    ],
+    "base64": [
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDI1ZGQQKhNbsni1CGU3ZgOUh",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/app.ini",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDI1ZGQQKhNbsni1CGU3ZgOUh",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDI1ZGQQKhNbsni1CGU3ZgOUh"
+      },
+      {
+        "value": "eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/food",
+        "context": "Token:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+        "confidence": 0.8,
+        "raw_line": "Token:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9"
+      },
+      {
+        "value": "7gcy23wq2h56kv997zvb5rrun8gatcd3",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/food",
+        "context": "API_KEY:7gcy23wq2h56kv997zvb5rrun8gatcd3",
+        "confidence": 0.8,
+        "raw_line": "API_KEY:7gcy23wq2h56kv997zvb5rrun8gatcd3"
+      },
+      {
+        "value": "733d1c3630e70e0f688a84bd6f3662a7",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/food",
+        "context": "generic_key:733d1c3630e70e0f688a84bd6f3662a7",
+        "confidence": 0.8,
+        "raw_line": "generic_key:733d1c3630e70e0f688a84bd6f3662a7"
+      },
+      {
+        "value": "eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/food",
+        "context": "generic_key:eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9",
+        "confidence": 0.8,
+        "raw_line": "generic_key:eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9"
+      },
+      {
+        "value": "PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/food",
+        "context": "generic_key:PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA",
+        "confidence": 0.8,
+        "raw_line": "generic_key:PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA"
+      },
+      {
+        "value": "c4433875000248c68b996b8e34503a0b",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/food",
+        "context": "generic_key:c4433875000248c68b996b8e34503a0b",
+        "confidence": 0.8,
+        "raw_line": "generic_key:c4433875000248c68b996b8e34503a0b"
+      },
+      {
+        "value": "MultiArticleManualeChannelsComponenta1280",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/food",
+        "context": "generic_key:MultiArticleManualeChannelsComponenta1280",
+        "confidence": 0.8,
+        "raw_line": "generic_key:MultiArticleManualeChannelsComponenta1280"
+      },
+      {
+        "value": "e45439a1b8f4475dbdbb48fa4f9b1609",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/food",
+        "context": "generic_key:e45439a1b8f4475dbdbb48fa4f9b1609",
+        "confidence": 0.8,
+        "raw_line": "generic_key:e45439a1b8f4475dbdbb48fa4f9b1609"
+      },
+      {
+        "value": "nisnutl79n0hiqsba35jgv6u0k4utk0m",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/food",
+        "context": "generic_key:nisnutl79n0hiqsba35jgv6u0k4utk0m",
+        "confidence": 0.8,
+        "raw_line": "generic_key:nisnutl79n0hiqsba35jgv6u0k4utk0m"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDMxZGTacHMMFss1sakWgB0ItkA2yMyVInvrtu5qGf8jcnllGw",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/.htpasswd",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDMxZGTacHMMFss1sakWgB0ItkA2yMyVInvrtu5qGf8jcnllGw",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDMxZGTacHMMFss1sakWgB0ItkA2yMyVInvrtu5qGf8jcnllGw"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQwZGSfK6PkC81m2K",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/.git/HEAD",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQwZGSfK6PkC81m2K",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQwZGSfK6PkC81m2K"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQ5ZGTF7sk76mQCrFG4P6Kzrd9He50Ce1G78ua",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/tmp/",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQ5ZGTF7sk76mQCrFG4P6Kzrd9He50Ce1G78ua",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQ5ZGTF7sk76mQCrFG4P6Kzrd9He50Ce1G78ua"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUyZGRqHxYXWz4dpGg5",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/postgres/",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUyZGRqHxYXWz4dpGg5",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUyZGRqHxYXWz4dpGg5"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUwZGTPbkU0k5pARIkMeIen8TIKa7hAYE803l8fT9TW10cqmQ",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/.htaccess",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUwZGTPbkU0k5pARIkMeIen8TIKa7hAYE803l8fT9TW10cqmQ",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUwZGTPbkU0k5pARIkMeIen8TIKa7hAYE803l8fT9TW10cqmQ"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUzZGQ32ibed4",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/db.php",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUzZGQ32ibed4",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUzZGQ32ibed4"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDc5ZGTbC82kqmahuThTPp86tmvtIo5atQgI9VFW1ymKseaYlw",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/phpinfo.php",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDc5ZGTbC82kqmahuThTPp86tmvtIo5atQgI9VFW1ymKseaYlw",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDc5ZGTbC82kqmahuThTPp86tmvtIo5atQgI9VFW1ymKseaYlw"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDgxZGTu2bEC",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/debug.log",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDgxZGTu2bEC",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDgxZGTu2bEC"
+      },
+      {
+        "value": "vmvPOXo7VeadoB0c4XVk8fB52hhdzq4ijJ1Nw",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/debug.log",
+        "context": "generic_key:vmvPOXo7VeadoB0c4XVk8fB52hhdzq4ijJ1Nw",
+        "confidence": 0.8,
+        "raw_line": "generic_key:vmvPOXo7VeadoB0c4XVk8fB52hhdzq4ijJ1Nw"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk2ZGRTjqyuLZDlqxxhpTep8Jr9VklkOLX5ZRjVx1iXL277dg",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/test.php",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk2ZGRTjqyuLZDlqxxhpTep8Jr9VklkOLX5ZRjVx1iXL277dg",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk2ZGRTjqyuLZDlqxxhpTep8Jr9VklkOLX5ZRjVx1iXL277dg"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk4ZGRkf",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/.env.prod",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk4ZGRkf",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk4ZGRkf"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTAwZGQX0c5BMri7bTzJkUZcMlT87np0ODX9l9Nso",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/config.ini",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTAwZGQX0c5BMri7bTzJkUZcMlT87np0ODX9l9Nso",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTAwZGQX0c5BMri7bTzJkUZcMlT87np0ODX9l9Nso"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk5ZGT7S31uMMNXAyPruV7dUSMNvSjnwmLJ5sxcYi06NVX6Bw",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/config.php",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk5ZGT7S31uMMNXAyPruV7dUSMNvSjnwmLJ5sxcYi06NVX6Bw",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk5ZGT7S31uMMNXAyPruV7dUSMNvSjnwmLJ5sxcYi06NVX6Bw"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTIyZGRpYX9ZJU8Rfgo304EhIgscx5cSq",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/.git/",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTIyZGRpYX9ZJU8Rfgo304EhIgscx5cSq",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTIyZGRpYX9ZJU8Rfgo304EhIgscx5cSq"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTQ5ZGS",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/access_log",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTQ5ZGS",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTQ5ZGS"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTYxZGTnWcmUeDgpNCRK5EObmIbnY9gdsFLI4Y1NaeFb4MG0ZQ",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/.env.local",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTYxZGTnWcmUeDgpNCRK5EObmIbnY9gdsFLI4Y1NaeFb4MG0ZQ",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTYxZGTnWcmUeDgpNCRK5EObmIbnY9gdsFLI4Y1NaeFb4MG0ZQ"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTkwZGQrcoNpn7xT7Xw3jCBGCD8TQBJpKxNTTzGfx5tgkXmm4Q",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/status.php",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTkwZGQrcoNpn7xT7Xw3jCBGCD8TQBJpKxNTTzGfx5tgkXmm4Q",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTkwZGQrcoNpn7xT7Xw3jCBGCD8TQBJpKxNTTzGfx5tgkXmm4Q"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEyZGSupAgEksYTPUXdsd2uAIQsXaWJ0ORlhU2Ql7V",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/settings.env",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEyZGSupAgEksYTPUXdsd2uAIQsXaWJ0ORlhU2Ql7V",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEyZGSupAgEksYTPUXdsd2uAIQsXaWJ0ORlhU2Ql7V"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEzZGSmIDrrCNehcfJpVR19BpiZl1DaS3vGiMDI6XfTgfJQLw",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/phpmyadmin/",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEzZGSmIDrrCNehcfJpVR19BpiZl1DaS3vGiMDI6XfTgfJQLw",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEzZGSmIDrrCNehcfJpVR19BpiZl1DaS3vGiMDI6XfTgfJQLw"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ1ZGSFnsf3sEg1c",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/data.sql",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ1ZGSFnsf3sEg1c",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ1ZGSFnsf3sEg1c"
+      },
+      {
+        "value": "XuTaWSSSlCk9paC2WDhgeN2Lx5qGO5Gw",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/data.sql",
+        "context": "generic_key:XuTaWSSSlCk9paC2WDhgeN2Lx5qGO5Gw",
+        "confidence": 0.8,
+        "raw_line": "generic_key:XuTaWSSSlCk9paC2WDhgeN2Lx5qGO5Gw"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ5ZGQgpRD02d1Hmrc3YPKLAtSb9eTTCwJhM",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/mysql/",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ5ZGQgpRD02d1Hmrc3YPKLAtSb9eTTCwJhM",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ5ZGQgpRD02d1Hmrc3YPKLAtSb9eTTCwJhM"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc3ZGQWtpDGJXMDZtB",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/backup.tar.gz",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc3ZGQWtpDGJXMDZtB",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc3ZGQWtpDGJXMDZtB"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc4ZGRLIzxCgXg04NyNY1yf",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/app.log",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc4ZGRLIzxCgXg04NyNY1yf",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc4ZGRLIzxCgXg04NyNY1yf"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc2ZGRrxOZOyhYHdX3",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/dump.sql",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc2ZGRrxOZOyhYHdX3",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc2ZGRrxOZOyhYHdX3"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzExZGTvrj",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/.gitignore",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzExZGTvrj",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzExZGTvrj"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzM0ZGSyj7XLLU",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/server-status",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzM0ZGSyj7XLLU",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzM0ZGSyj7XLLU"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzUzZGS1fEWDO3xB",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/settings.ini",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzUzZGS1fEWDO3xB",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzUzZGS1fEWDO3xB"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzU0ZGSkem0",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/log/",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzU0ZGSkem0",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzU0ZGSkem0"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzYzZGQ3yhds",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/test/",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzYzZGQ3yhds",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzYzZGQ3yhds"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzc1ZGTiqY9Ru5iM1",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/wp-login.php",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzc1ZGTiqY9Ru5iM1",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzc1ZGTiqY9Ru5iM1"
+      },
+      {
+        "value": "c9mOAICM3UYLWRvDMYlPNv1hRHiJvmmQ",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/wp-login.php",
+        "context": "generic_key:c9mOAICM3UYLWRvDMYlPNv1hRHiJvmmQ",
+        "confidence": 0.8,
+        "raw_line": "generic_key:c9mOAICM3UYLWRvDMYlPNv1hRHiJvmmQ"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgzZGRz1EywqquzKspBRqzFbA5E2l09M6WREm9ovRt7cwv0vQ",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/debug.php",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgzZGRz1EywqquzKspBRqzFbA5E2l09M6WREm9ovRt7cwv0vQ",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgzZGRz1EywqquzKspBRqzFbA5E2l09M6WREm9ovRt7cwv0vQ"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgxZGRtK0IJRoieaYxr7r42nq7tJZfIfp",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/composer.lock",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgxZGRtK0IJRoieaYxr7r42nq7tJZfIfp",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgxZGRtK0IJRoieaYxr7r42nq7tJZfIfp"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgyZGS7Qd4JUjU09TvLLfVBlh0ZMyyVXym9kGjCtNcn7XxLcg",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/config.json",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgyZGS7Qd4JUjU09TvLLfVBlh0ZMyyVXym9kGjCtNcn7XxLcg",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgyZGS7Qd4JUjU09TvLLfVBlh0ZMyyVXym9kGjCtNcn7XxLcg"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzg5ZGSkT9TzChkYHTcDFLHzyulMF56H6cjRB6KIzlxvzySIUw",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/database.php",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzg5ZGSkT9TzChkYHTcDFLHzyulMF56H6cjRB6KIzlxvzySIUw",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzg5ZGSkT9TzChkYHTcDFLHzyulMF56H6cjRB6KIzlxvzySIUw"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk4ZGTbVI",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/.git/index",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk4ZGTbVI",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk4ZGTbVI"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk5ZGT0",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/backup.sql",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk5ZGT0",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk5ZGT0"
+      },
+      {
+        "value": "cD0Ss9SKDKUCrGdHDIYJ9owg4XUGqjUvFxQnJsc6A",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/backup.sql",
+        "context": "generic_key:cD0Ss9SKDKUCrGdHDIYJ9owg4XUGqjUvFxQnJsc6A",
+        "confidence": 0.8,
+        "raw_line": "generic_key:cD0Ss9SKDKUCrGdHDIYJ9owg4XUGqjUvFxQnJsc6A"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDE1ZGRBI8JZX1naMfymBtsuPAYokDIou4Ah",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/error_log",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDE1ZGRBI8JZX1naMfymBtsuPAYokDIou4Ah",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDE1ZGRBI8JZX1naMfymBtsuPAYokDIou4Ah"
+      },
+      {
+        "value": "6b8d686e57134dff977f1878d76da83e",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/radio",
+        "context": "generic_key:6b8d686e57134dff977f1878d76da83e",
+        "confidence": 0.8,
+        "raw_line": "generic_key:6b8d686e57134dff977f1878d76da83e"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDI0ZGTVi0k7dFOsrxlvOiZ31FmMPGkgKqclT0Pmrr3R67XCtw",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/db.sql",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDI0ZGTVi0k7dFOsrxlvOiZ31FmMPGkgKqclT0Pmrr3R67XCtw",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDI0ZGTVi0k7dFOsrxlvOiZ31FmMPGkgKqclT0Pmrr3R67XCtw"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDIzZGTCz6r2tY9KEnbswgqoITeJJgdcZxykjSk5",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/temp/",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDIzZGTCz6r2tY9KEnbswgqoITeJJgdcZxykjSk5",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDIzZGTCz6r2tY9KEnbswgqoITeJJgdcZxykjSk5"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDM1ZGRS",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/config.env",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDM1ZGRS",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDM1ZGRS"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ1ZGTBL1dsfx6BZI",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/database.sql",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ1ZGTBL1dsfx6BZI",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ1ZGTBL1dsfx6BZI"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ0ZGTrnMPE",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/testing/",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ0ZGTrnMPE",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ0ZGTrnMPE"
+      },
+      {
+        "value": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDYzZGSlL",
+        "type": "base64",
+        "source_file": "https://ynet.co.il/settings.php",
+        "context": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDYzZGSlL",
+        "confidence": 0.8,
+        "raw_line": "generic_key:wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDYzZGSlL"
+      }
+    ],
+    "password": [
+      {
+        "value": "eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+        "type": "password",
+        "source_file": "https://ynet.co.il/food",
+        "context": "Token:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+        "confidence": 0.95,
+        "raw_line": "Token:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9"
+      }
+    ],
+    "hash": [
+      {
+        "value": "733d1c3630e70e0f688a84bd6f3662a7",
+        "type": "hash",
+        "source_file": "https://ynet.co.il/food",
+        "context": "generic_key:733d1c3630e70e0f688a84bd6f3662a7",
+        "confidence": 0.8,
+        "raw_line": "generic_key:733d1c3630e70e0f688a84bd6f3662a7"
+      },
+      {
+        "value": "c4433875000248c68b996b8e34503a0b",
+        "type": "hash",
+        "source_file": "https://ynet.co.il/food",
+        "context": "generic_key:c4433875000248c68b996b8e34503a0b",
+        "confidence": 0.8,
+        "raw_line": "generic_key:c4433875000248c68b996b8e34503a0b"
+      },
+      {
+        "value": "e45439a1b8f4475dbdbb48fa4f9b1609",
+        "type": "hash",
+        "source_file": "https://ynet.co.il/food",
+        "context": "generic_key:e45439a1b8f4475dbdbb48fa4f9b1609",
+        "confidence": 0.8,
+        "raw_line": "generic_key:e45439a1b8f4475dbdbb48fa4f9b1609"
+      },
+      {
+        "value": "6b8d686e57134dff977f1878d76da83e",
+        "type": "hash",
+        "source_file": "https://ynet.co.il/radio",
+        "context": "generic_key:6b8d686e57134dff977f1878d76da83e",
+        "confidence": 0.8,
+        "raw_line": "generic_key:6b8d686e57134dff977f1878d76da83e"
+      }
+    ]
+  },
+  "counts": {
+    "api_key": 57,
+    "base64": 57,
+    "password": 1,
+    "hash": 4
+  }
+}

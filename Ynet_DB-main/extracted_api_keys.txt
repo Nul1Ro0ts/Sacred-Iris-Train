@@ -1,0 +1,175 @@
+============================================================
+EXTRACTED API KEYS
+============================================================
+
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDI1ZGQQKhNbsni1CGU3ZgOUh
+  Source: https://ynet.co.il/app.ini
+----------------------------------------
+[0.85] eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9
+  Source: https://ynet.co.il/food
+----------------------------------------
+[0.85] 7gcy23wq2h56kv997zvb5rrun8gatcd3
+  Source: https://ynet.co.il/food
+----------------------------------------
+[0.85] 733d1c3630e70e0f688a84bd6f3662a7
+  Source: https://ynet.co.il/food
+----------------------------------------
+[0.85] eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9
+  Source: https://ynet.co.il/food
+----------------------------------------
+[0.85] PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA
+  Source: https://ynet.co.il/food
+----------------------------------------
+[0.85] c4433875000248c68b996b8e34503a0b
+  Source: https://ynet.co.il/food
+----------------------------------------
+[0.85] MultiArticleManualeChannelsComponenta1280
+  Source: https://ynet.co.il/food
+----------------------------------------
+[0.85] e45439a1b8f4475dbdbb48fa4f9b1609
+  Source: https://ynet.co.il/food
+----------------------------------------
+[0.85] nisnutl79n0hiqsba35jgv6u0k4utk0m
+  Source: https://ynet.co.il/food
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDMxZGTacHMMFss1sakWgB0ItkA2yMyVInvrtu5qGf8jcnllGw
+  Source: https://ynet.co.il/.htpasswd
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQwZGSfK6PkC81m2K
+  Source: https://ynet.co.il/.git/HEAD
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQ5ZGTF7sk76mQCrFG4P6Kzrd9He50Ce1G78ua
+  Source: https://ynet.co.il/tmp/
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUyZGRqHxYXWz4dpGg5
+  Source: https://ynet.co.il/postgres/
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUwZGTPbkU0k5pARIkMeIen8TIKa7hAYE803l8fT9TW10cqmQ
+  Source: https://ynet.co.il/.htaccess
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUzZGQ32ibed4
+  Source: https://ynet.co.il/db.php
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDc5ZGTbC82kqmahuThTPp86tmvtIo5atQgI9VFW1ymKseaYlw
+  Source: https://ynet.co.il/phpinfo.php
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDgxZGTu2bEC
+  Source: https://ynet.co.il/debug.log
+----------------------------------------
+[0.85] vmvPOXo7VeadoB0c4XVk8fB52hhdzq4ijJ1Nw
+  Source: https://ynet.co.il/debug.log
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk2ZGRTjqyuLZDlqxxhpTep8Jr9VklkOLX5ZRjVx1iXL277dg
+  Source: https://ynet.co.il/test.php
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk4ZGRkf
+  Source: https://ynet.co.il/.env.prod
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTAwZGQX0c5BMri7bTzJkUZcMlT87np0ODX9l9Nso
+  Source: https://ynet.co.il/config.ini
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk5ZGT7S31uMMNXAyPruV7dUSMNvSjnwmLJ5sxcYi06NVX6Bw
+  Source: https://ynet.co.il/config.php
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTIyZGRpYX9ZJU8Rfgo304EhIgscx5cSq
+  Source: https://ynet.co.il/.git/
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTQ5ZGS
+  Source: https://ynet.co.il/access_log
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTYxZGTnWcmUeDgpNCRK5EObmIbnY9gdsFLI4Y1NaeFb4MG0ZQ
+  Source: https://ynet.co.il/.env.local
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTkwZGQrcoNpn7xT7Xw3jCBGCD8TQBJpKxNTTzGfx5tgkXmm4Q
+  Source: https://ynet.co.il/status.php
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEyZGSupAgEksYTPUXdsd2uAIQsXaWJ0ORlhU2Ql7V
+  Source: https://ynet.co.il/settings.env
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEzZGSmIDrrCNehcfJpVR19BpiZl1DaS3vGiMDI6XfTgfJQLw
+  Source: https://ynet.co.il/phpmyadmin/
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ1ZGSFnsf3sEg1c
+  Source: https://ynet.co.il/data.sql
+----------------------------------------
+[0.85] XuTaWSSSlCk9paC2WDhgeN2Lx5qGO5Gw
+  Source: https://ynet.co.il/data.sql
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ5ZGQgpRD02d1Hmrc3YPKLAtSb9eTTCwJhM
+  Source: https://ynet.co.il/mysql/
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc3ZGQWtpDGJXMDZtB
+  Source: https://ynet.co.il/backup.tar.gz
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc4ZGRLIzxCgXg04NyNY1yf
+  Source: https://ynet.co.il/app.log
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc2ZGRrxOZOyhYHdX3
+  Source: https://ynet.co.il/dump.sql
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzExZGTvrj
+  Source: https://ynet.co.il/.gitignore
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzM0ZGSyj7XLLU
+  Source: https://ynet.co.il/server-status
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzUzZGS1fEWDO3xB
+  Source: https://ynet.co.il/settings.ini
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzU0ZGSkem0
+  Source: https://ynet.co.il/log/
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzYzZGQ3yhds
+  Source: https://ynet.co.il/test/
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzc1ZGTiqY9Ru5iM1
+  Source: https://ynet.co.il/wp-login.php
+----------------------------------------
+[0.85] c9mOAICM3UYLWRvDMYlPNv1hRHiJvmmQ
+  Source: https://ynet.co.il/wp-login.php
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgzZGRz1EywqquzKspBRqzFbA5E2l09M6WREm9ovRt7cwv0vQ
+  Source: https://ynet.co.il/debug.php
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgxZGRtK0IJRoieaYxr7r42nq7tJZfIfp
+  Source: https://ynet.co.il/composer.lock
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgyZGS7Qd4JUjU09TvLLfVBlh0ZMyyVXym9kGjCtNcn7XxLcg
+  Source: https://ynet.co.il/config.json
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzg5ZGSkT9TzChkYHTcDFLHzyulMF56H6cjRB6KIzlxvzySIUw
+  Source: https://ynet.co.il/database.php
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk4ZGTbVI
+  Source: https://ynet.co.il/.git/index
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk5ZGT0
+  Source: https://ynet.co.il/backup.sql
+----------------------------------------
+[0.85] cD0Ss9SKDKUCrGdHDIYJ9owg4XUGqjUvFxQnJsc6A
+  Source: https://ynet.co.il/backup.sql
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDE1ZGRBI8JZX1naMfymBtsuPAYokDIou4Ah
+  Source: https://ynet.co.il/error_log
+----------------------------------------
+[0.85] 6b8d686e57134dff977f1878d76da83e
+  Source: https://ynet.co.il/radio
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDI0ZGTVi0k7dFOsrxlvOiZ31FmMPGkgKqclT0Pmrr3R67XCtw
+  Source: https://ynet.co.il/db.sql
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDIzZGTCz6r2tY9KEnbswgqoITeJJgdcZxykjSk5
+  Source: https://ynet.co.il/temp/
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDM1ZGRS
+  Source: https://ynet.co.il/config.env
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ1ZGTBL1dsfx6BZI
+  Source: https://ynet.co.il/database.sql
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ0ZGTrnMPE
+  Source: https://ynet.co.il/testing/
+----------------------------------------
+[0.85] wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDYzZGSlL
+  Source: https://ynet.co.il/settings.php
+----------------------------------------

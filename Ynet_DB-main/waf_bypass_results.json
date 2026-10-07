@@ -1,0 +1,1917 @@
+[
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "X-Forwarded-For": "127.0.0.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=28",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:46 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding",
+      "Set-Cookie": "ak_bmsc=33AB25AC70F789A7D74D5A5536719B7E~000000000000000000000000000000~YAAQbvkUAk/O2AafAQAA6SAKCQDKgUMVezTwxOIgyh3KU3d5dwuzQ0sO51Rn45PCYfIbvvYc9JusLxFG+WTj0wlIbzSmEKu2YwbZ+4tv4revWmWOzL3zH5Bb92mdlMqDPs7RQNI3pxpGGqjO9WF1HXtMtGK8Igumt4CinnBa+7lxY6YrZM7ubaDXA+0ty0+ZzNVfj41R1yzrmYPsxZ/eVxIiTsJdAJZCL5Ec0+CbMKGfqeTLC4Csovt8so782xofRblktCNHdcDyF3SZqbyiruKpQiNnjxS4sZ1eQoKLlta+jFQvaYlgoIM2ZlsUQhmz2Ew4uv0N6AcJuvHapYLmpNQGdslkcZpHill8/pedcV/yZWQ2K0UM9vk5pQ==; Domain=.ynet.co.il; Path=/; Expires=Sat, 27 Jun 2026 14:24:46 GMT; Max-Age=7200; HttpOnly"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "X-Forwarded-For": "10.0.0.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=27",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:47 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "X-Forwarded-For": "192.168.1.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=27",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:47 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "X-Originating-IP": "127.0.0.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=27",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:47 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "X-Remote-IP": "127.0.0.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=26",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:48 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "X-Client-IP": "127.0.0.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=26",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:48 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "X-Host": "www.ynet.co.il"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=26",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:48 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "X-Real-IP": "127.0.0.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=25",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:49 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "CF-Connecting-IP": "127.0.0.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=25",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:49 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "X-Forwarded-Host": "www.ynet.co.il"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=25",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:49 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "X-Forwarded-Scheme": "https"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=24",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:50 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "X-Original-URL": "/news"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=24",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:50 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "X-Rewrite-URL": "/news"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=24",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:50 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "X-Proxy-URL": "/news"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=23",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:51 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "X-Request-URI": "/news"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=23",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:51 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "X-Forwarded-For": "0.0.0.0"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=23",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:51 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "X-Forwarded-For": "8.8.8.8"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=22",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:52 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "X-Forwarded-For": "1.1.1.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=22",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:52 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "X-Forwarded-For": "::1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=21",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:53 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "X-Forwarded-For": "fe80::1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=21",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:53 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "X-Real-IP": "0.0.0.0"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=21",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:53 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "X-Real-IP": "8.8.8.8"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=20",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:54 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=20",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:54 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (compatible; Bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=20",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:54 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=19",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:55 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:19 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "7",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "43543",
+      "Cache-Control": "private, max-age=22",
+      "Expires": "Sat, 27 Jun 2026 12:25:17 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:55 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 178993
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "User-Agent": "curl/7.68.0"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=19",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:55 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "User-Agent": "Wget/1.20.3"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=18",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:56 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/news",
+    "headers": {
+      "User-Agent": "python-requests/2.25.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/html; charset=utf-8",
+      "Content-Security-Policy": "frame-ancestors 'self' https://*.taboola.com",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 12:19:03 GMT",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "32",
+      "backend-cache-control": "s-maxage=300",
+      "Content-Encoding": "gzip",
+      "Content-Length": "63086",
+      "Cache-Control": "private, max-age=18",
+      "Expires": "Sat, 27 Jun 2026 12:25:14 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:56 GMT",
+      "Connection": "keep-alive",
+      "Vary": "Accept-Encoding"
+    },
+    "length": 247134
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "X-Forwarded-For": "127.0.0.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=90",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:57 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "X-Forwarded-For": "10.0.0.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=90",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:57 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "X-Forwarded-For": "192.168.1.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=90",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:57 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "X-Originating-IP": "127.0.0.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=89",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:58 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "X-Remote-IP": "127.0.0.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=89",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:58 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "X-Client-IP": "127.0.0.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=89",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:58 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "X-Host": "www.ynet.co.il"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=88",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:59 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "X-Real-IP": "127.0.0.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=88",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:59 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "CF-Connecting-IP": "127.0.0.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=88",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:24:59 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "X-Forwarded-Host": "www.ynet.co.il"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=87",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:25:00 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "X-Forwarded-Scheme": "https"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=87",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:25:00 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "X-Original-URL": "/news"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=87",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:25:00 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "X-Rewrite-URL": "/news"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=86",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:25:01 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "X-Proxy-URL": "/news"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=86",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:25:01 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "X-Request-URI": "/news"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=86",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:25:01 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "X-Forwarded-For": "0.0.0.0"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=85",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:25:02 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "X-Forwarded-For": "8.8.8.8"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=85",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:25:02 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "X-Forwarded-For": "1.1.1.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=85",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:25:02 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "X-Forwarded-For": "::1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=84",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:25:03 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "X-Forwarded-For": "fe80::1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=84",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:25:03 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "X-Real-IP": "0.0.0.0"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=84",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:25:03 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "X-Real-IP": "8.8.8.8"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=83",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:25:04 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=83",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:25:04 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (compatible; Bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=83",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:25:04 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=82",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:25:05 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "HIT",
+      "WAI": "01",
+      "V-TTL": "1790",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=90",
+      "Expires": "Sat, 27 Jun 2026 12:26:35 GMT",
+      "Date": "Sat, 27 Jun 2026 12:25:05 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "User-Agent": "curl/7.68.0"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=81",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:25:06 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "User-Agent": "Wget/1.20.3"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=81",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:25:06 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/article",
+    "headers": {
+      "User-Agent": "python-requests/2.25.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Content-Length": "0",
+      "Access-Control-Allow-Origin": "*",
+      "X-Frame-Options": "SAMEORIGIN",
+      "OSV": "c8",
+      "Last-Modified": "Sat, 27 Jun 2026 11:55:15 GMT",
+      "Accept-Ranges": "bytes",
+      "VX-Cache": "MISS",
+      "WAI": "01",
+      "V-TTL": "0",
+      "backend-cache-control": "s-maxage=3600",
+      "Cache-Control": "private, max-age=81",
+      "Expires": "Sat, 27 Jun 2026 12:26:27 GMT",
+      "Date": "Sat, 27 Jun 2026 12:25:06 GMT",
+      "Connection": "keep-alive"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "X-Forwarded-For": "127.0.0.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:18 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "X-Forwarded-For": "10.0.0.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:19 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "X-Forwarded-For": "192.168.1.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:19 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "X-Originating-IP": "127.0.0.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:20 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "X-Remote-IP": "127.0.0.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:20 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "X-Client-IP": "127.0.0.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:21 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "X-Host": "www.ynet.co.il"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:21 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "X-Real-IP": "127.0.0.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:22 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "CF-Connecting-IP": "127.0.0.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:22 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "X-Forwarded-Host": "www.ynet.co.il"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:23 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "X-Forwarded-Scheme": "https"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:24 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "X-Original-URL": "/news"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:24 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "X-Rewrite-URL": "/news"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:25 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "X-Proxy-URL": "/news"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:25 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "X-Request-URI": "/news"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:26 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "X-Forwarded-For": "0.0.0.0"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:27 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "X-Forwarded-For": "8.8.8.8"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:27 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "X-Forwarded-For": "1.1.1.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:28 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "X-Forwarded-For": "::1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:28 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "X-Forwarded-For": "fe80::1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:29 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "X-Real-IP": "0.0.0.0"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:30 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "X-Real-IP": "8.8.8.8"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:30 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:31 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (compatible; Bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:31 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:32 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:33 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "User-Agent": "curl/7.68.0"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:33 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "User-Agent": "Wget/1.20.3"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:34 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  },
+  {
+    "url": "https://www.ynet.co.il/auth",
+    "headers": {
+      "User-Agent": "python-requests/2.25.1"
+    },
+    "status": 200,
+    "headers_response": {
+      "Content-Length": "0",
+      "Date": "Sat, 27 Jun 2026 12:25:34 GMT",
+      "Connection": "keep-alive",
+      "Pragma": "no-cache",
+      "Cache-Control": "no-cache, no-store, must-revalidate"
+    },
+    "length": 0
+  }
+]

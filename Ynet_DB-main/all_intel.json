@@ -1,0 +1,820 @@
+{
+  "credentials": [
+    {
+      "username": "",
+      "password": "TOKEN:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "source_file": "https://ynet.co.il/food",
+      "context": "pattern: token",
+      "confidence": 0.9
+    },
+    {
+      "username": "",
+      "password": "TOKEN:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "source_file": "https://ynet.co.il/entertainment",
+      "context": "pattern: token",
+      "confidence": 0.9
+    },
+    {
+      "username": "",
+      "password": "TOKEN:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "source_file": "https://ynet.co.il/News",
+      "context": "pattern: token",
+      "confidence": 0.9
+    },
+    {
+      "username": "",
+      "password": "TOKEN:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "source_file": "https://ynet.co.il/games",
+      "context": "pattern: token",
+      "confidence": 0.9
+    },
+    {
+      "username": "",
+      "password": "TOKEN:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "source_file": "https://ynet.co.il/sport",
+      "context": "pattern: token",
+      "confidence": 0.9
+    },
+    {
+      "username": "",
+      "password": "TOKEN:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "source_file": "https://ynet.co.il/health",
+      "context": "pattern: token",
+      "confidence": 0.9
+    },
+    {
+      "username": "",
+      "password": "TOKEN:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "source_file": "https://ynet.co.il/news",
+      "context": "pattern: token",
+      "confidence": 0.9
+    },
+    {
+      "username": "",
+      "password": "TOKEN:eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "source_file": "https://ynet.co.il/radio",
+      "context": "pattern: token",
+      "confidence": 0.9
+    }
+  ],
+  "api_keys": [
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDI1ZGQQKhNbsni1CGU3ZgOUh",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/app.ini",
+      "confidence": 0.85
+    },
+    {
+      "key": "eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/food",
+      "confidence": 0.85
+    },
+    {
+      "key": "7gcy23wq2h56kv997zvb5rrun8gatcd3",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/food",
+      "confidence": 0.85
+    },
+    {
+      "key": "733d1c3630e70e0f688a84bd6f3662a7",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/food",
+      "confidence": 0.85
+    },
+    {
+      "key": "eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/food",
+      "confidence": 0.85
+    },
+    {
+      "key": "PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/food",
+      "confidence": 0.85
+    },
+    {
+      "key": "c4433875000248c68b996b8e34503a0b",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/food",
+      "confidence": 0.85
+    },
+    {
+      "key": "MultiArticleManualeChannelsComponenta1280",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/food",
+      "confidence": 0.85
+    },
+    {
+      "key": "e45439a1b8f4475dbdbb48fa4f9b1609",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/food",
+      "confidence": 0.85
+    },
+    {
+      "key": "nisnutl79n0hiqsba35jgv6u0k4utk0m",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/food",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDMxZGTacHMMFss1sakWgB0ItkA2yMyVInvrtu5qGf8jcnllGw",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/.htpasswd",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQwZGSfK6PkC81m2K",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/.git/HEAD",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDQ5ZGTF7sk76mQCrFG4P6Kzrd9He50Ce1G78ua",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/tmp/",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUyZGRqHxYXWz4dpGg5",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/postgres/",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUwZGTPbkU0k5pARIkMeIen8TIKa7hAYE803l8fT9TW10cqmQ",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/.htaccess",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDUzZGQ32ibed4",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/db.php",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDc5ZGTbC82kqmahuThTPp86tmvtIo5atQgI9VFW1ymKseaYlw",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/phpinfo.php",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDgxZGTu2bEC",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/debug.log",
+      "confidence": 0.85
+    },
+    {
+      "key": "vmvPOXo7VeadoB0c4XVk8fB52hhdzq4ijJ1Nw",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/debug.log",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk2ZGRTjqyuLZDlqxxhpTep8Jr9VklkOLX5ZRjVx1iXL277dg",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/test.php",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk4ZGRkf",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/.env.prod",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTAwZGQX0c5BMri7bTzJkUZcMlT87np0ODX9l9Nso",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/config.ini",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MDk5ZGT7S31uMMNXAyPruV7dUSMNvSjnwmLJ5sxcYi06NVX6Bw",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/config.php",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTIyZGRpYX9ZJU8Rfgo304EhIgscx5cSq",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/.git/",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTQ5ZGS",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/access_log",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTYxZGTnWcmUeDgpNCRK5EObmIbnY9gdsFLI4Y1NaeFb4MG0ZQ",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/.env.local",
+      "confidence": 0.85
+    },
+    {
+      "key": "eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/entertainment",
+      "confidence": 0.85
+    },
+    {
+      "key": "7gcy23wq2h56kv997zvb5rrun8gatcd3",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/entertainment",
+      "confidence": 0.85
+    },
+    {
+      "key": "733d1c3630e70e0f688a84bd6f3662a7",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/entertainment",
+      "confidence": 0.85
+    },
+    {
+      "key": "eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/entertainment",
+      "confidence": 0.85
+    },
+    {
+      "key": "PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/entertainment",
+      "confidence": 0.85
+    },
+    {
+      "key": "c4433875000248c68b996b8e34503a0b",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/entertainment",
+      "confidence": 0.85
+    },
+    {
+      "key": "MultiArticleManualeChannelsComponenta1280",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/entertainment",
+      "confidence": 0.85
+    },
+    {
+      "key": "e45439a1b8f4475dbdbb48fa4f9b1609",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/entertainment",
+      "confidence": 0.85
+    },
+    {
+      "key": "nisnutl79n0hiqsba35jgv6u0k4utk0m",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/entertainment",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MTkwZGQrcoNpn7xT7Xw3jCBGCD8TQBJpKxNTTzGfx5tgkXmm4Q",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/status.php",
+      "confidence": 0.85
+    },
+    {
+      "key": "eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/News",
+      "confidence": 0.85
+    },
+    {
+      "key": "7gcy23wq2h56kv997zvb5rrun8gatcd3",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/News",
+      "confidence": 0.85
+    },
+    {
+      "key": "733d1c3630e70e0f688a84bd6f3662a7",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/News",
+      "confidence": 0.85
+    },
+    {
+      "key": "eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/News",
+      "confidence": 0.85
+    },
+    {
+      "key": "PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/News",
+      "confidence": 0.85
+    },
+    {
+      "key": "MultiImagesMagazineSquareComponenta",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/News",
+      "confidence": 0.85
+    },
+    {
+      "key": "c4433875000248c68b996b8e34503a0b",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/News",
+      "confidence": 0.85
+    },
+    {
+      "key": "MultiArticleManualeChannelsComponenta1280",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/News",
+      "confidence": 0.85
+    },
+    {
+      "key": "e45439a1b8f4475dbdbb48fa4f9b1609",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/News",
+      "confidence": 0.85
+    },
+    {
+      "key": "nisnutl79n0hiqsba35jgv6u0k4utk0m",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/News",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEyZGSupAgEksYTPUXdsd2uAIQsXaWJ0ORlhU2Ql7V",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/settings.env",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjEzZGSmIDrrCNehcfJpVR19BpiZl1DaS3vGiMDI6XfTgfJQLw",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/phpmyadmin/",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ1ZGSFnsf3sEg1c",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/data.sql",
+      "confidence": 0.85
+    },
+    {
+      "key": "XuTaWSSSlCk9paC2WDhgeN2Lx5qGO5Gw",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/data.sql",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MjQ5ZGQgpRD02d1Hmrc3YPKLAtSb9eTTCwJhM",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/mysql/",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc3ZGQWtpDGJXMDZtB",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/backup.tar.gz",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc4ZGRLIzxCgXg04NyNY1yf",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/app.log",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mjc2ZGRrxOZOyhYHdX3",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/dump.sql",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzExZGTvrj",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/.gitignore",
+      "confidence": 0.85
+    },
+    {
+      "key": "UserIdentificationComponentIFrame",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/robots.txt",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzM0ZGSyj7XLLU",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/server-status",
+      "confidence": 0.85
+    },
+    {
+      "key": "eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/games",
+      "confidence": 0.85
+    },
+    {
+      "key": "7gcy23wq2h56kv997zvb5rrun8gatcd3",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/games",
+      "confidence": 0.85
+    },
+    {
+      "key": "733d1c3630e70e0f688a84bd6f3662a7",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/games",
+      "confidence": 0.85
+    },
+    {
+      "key": "eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/games",
+      "confidence": 0.85
+    },
+    {
+      "key": "PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/games",
+      "confidence": 0.85
+    },
+    {
+      "key": "c4433875000248c68b996b8e34503a0b",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/games",
+      "confidence": 0.85
+    },
+    {
+      "key": "MultiArticleManualeChannelsComponenta1280",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/games",
+      "confidence": 0.85
+    },
+    {
+      "key": "e45439a1b8f4475dbdbb48fa4f9b1609",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/games",
+      "confidence": 0.85
+    },
+    {
+      "key": "nisnutl79n0hiqsba35jgv6u0k4utk0m",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/games",
+      "confidence": 0.85
+    },
+    {
+      "key": "eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/sport",
+      "confidence": 0.85
+    },
+    {
+      "key": "7gcy23wq2h56kv997zvb5rrun8gatcd3",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/sport",
+      "confidence": 0.85
+    },
+    {
+      "key": "733d1c3630e70e0f688a84bd6f3662a7",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/sport",
+      "confidence": 0.85
+    },
+    {
+      "key": "eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/sport",
+      "confidence": 0.85
+    },
+    {
+      "key": "PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/sport",
+      "confidence": 0.85
+    },
+    {
+      "key": "MultiArticleManualeChannelsComponenta1280",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/sport",
+      "confidence": 0.85
+    },
+    {
+      "key": "c4433875000248c68b996b8e34503a0b",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/sport",
+      "confidence": 0.85
+    },
+    {
+      "key": "e45439a1b8f4475dbdbb48fa4f9b1609",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/sport",
+      "confidence": 0.85
+    },
+    {
+      "key": "nisnutl79n0hiqsba35jgv6u0k4utk0m",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/sport",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzUzZGS1fEWDO3xB",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/settings.ini",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzU0ZGSkem0",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/log/",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzYzZGQ3yhds",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/test/",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzc1ZGTiqY9Ru5iM1",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/wp-login.php",
+      "confidence": 0.85
+    },
+    {
+      "key": "c9mOAICM3UYLWRvDMYlPNv1hRHiJvmmQ",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/wp-login.php",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgzZGRz1EywqquzKspBRqzFbA5E2l09M6WREm9ovRt7cwv0vQ",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/debug.php",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgxZGRtK0IJRoieaYxr7r42nq7tJZfIfp",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/composer.lock",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5MzgyZGS7Qd4JUjU09TvLLfVBlh0ZMyyVXym9kGjCtNcn7XxLcg",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/config.json",
+      "confidence": 0.85
+    },
+    {
+      "key": "eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/health",
+      "confidence": 0.85
+    },
+    {
+      "key": "7gcy23wq2h56kv997zvb5rrun8gatcd3",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/health",
+      "confidence": 0.85
+    },
+    {
+      "key": "733d1c3630e70e0f688a84bd6f3662a7",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/health",
+      "confidence": 0.85
+    },
+    {
+      "key": "eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/health",
+      "confidence": 0.85
+    },
+    {
+      "key": "PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/health",
+      "confidence": 0.85
+    },
+    {
+      "key": "c4433875000248c68b996b8e34503a0b",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/health",
+      "confidence": 0.85
+    },
+    {
+      "key": "MultiArticleManualeChannelsComponenta1280",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/health",
+      "confidence": 0.85
+    },
+    {
+      "key": "e45439a1b8f4475dbdbb48fa4f9b1609",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/health",
+      "confidence": 0.85
+    },
+    {
+      "key": "nisnutl79n0hiqsba35jgv6u0k4utk0m",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/health",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzg5ZGSkT9TzChkYHTcDFLHzyulMF56H6cjRB6KIzlxvzySIUw",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/database.php",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk4ZGTbVI",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/.git/index",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5Mzk5ZGT0",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/backup.sql",
+      "confidence": 0.85
+    },
+    {
+      "key": "cD0Ss9SKDKUCrGdHDIYJ9owg4XUGqjUvFxQnJsc6A",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/backup.sql",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDE1ZGRBI8JZX1naMfymBtsuPAYokDIou4Ah",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/error_log",
+      "confidence": 0.85
+    },
+    {
+      "key": "eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/news",
+      "confidence": 0.85
+    },
+    {
+      "key": "7gcy23wq2h56kv997zvb5rrun8gatcd3",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/news",
+      "confidence": 0.85
+    },
+    {
+      "key": "733d1c3630e70e0f688a84bd6f3662a7",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/news",
+      "confidence": 0.85
+    },
+    {
+      "key": "eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/news",
+      "confidence": 0.85
+    },
+    {
+      "key": "PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/news",
+      "confidence": 0.85
+    },
+    {
+      "key": "MultiImagesMagazineSquareComponenta",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/news",
+      "confidence": 0.85
+    },
+    {
+      "key": "c4433875000248c68b996b8e34503a0b",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/news",
+      "confidence": 0.85
+    },
+    {
+      "key": "MultiArticleManualeChannelsComponenta1280",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/news",
+      "confidence": 0.85
+    },
+    {
+      "key": "e45439a1b8f4475dbdbb48fa4f9b1609",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/news",
+      "confidence": 0.85
+    },
+    {
+      "key": "nisnutl79n0hiqsba35jgv6u0k4utk0m",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/news",
+      "confidence": 0.85
+    },
+    {
+      "key": "eyJraWQiOiJ4U2ZXU1BxMWc5S0oiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/radio",
+      "confidence": 0.85
+    },
+    {
+      "key": "7gcy23wq2h56kv997zvb5rrun8gatcd3",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/radio",
+      "confidence": 0.85
+    },
+    {
+      "key": "733d1c3630e70e0f688a84bd6f3662a7",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/radio",
+      "confidence": 0.85
+    },
+    {
+      "key": "eyJjIjoie1wiYWNsXCI6NixcImlkXCI6XCJ4U2ZXU1BxMWc5S0pcIixcImRvbWFpblwiOltcInluZXQuY28uaWxcIl19IiwiaXNzIjoiRmxvd3BsYXllciJ9",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/radio",
+      "confidence": 0.85
+    },
+    {
+      "key": "PDdSBVaDJmTBdvfuO8hgNfIukEq1tVgc7E8qkKHpA",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/radio",
+      "confidence": 0.85
+    },
+    {
+      "key": "verticalVideoGalleryBepoComponent",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/radio",
+      "confidence": 0.85
+    },
+    {
+      "key": "6b8d686e57134dff977f1878d76da83e",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/radio",
+      "confidence": 0.85
+    },
+    {
+      "key": "VerticalVideoGalleryBepoComponent",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/radio",
+      "confidence": 0.85
+    },
+    {
+      "key": "c4433875000248c68b996b8e34503a0b",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/radio",
+      "confidence": 0.85
+    },
+    {
+      "key": "MultiArticleManualeChannelsComponenta1280",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/radio",
+      "confidence": 0.85
+    },
+    {
+      "key": "e45439a1b8f4475dbdbb48fa4f9b1609",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/radio",
+      "confidence": 0.85
+    },
+    {
+      "key": "nisnutl79n0hiqsba35jgv6u0k4utk0m",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/radio",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDI0ZGTVi0k7dFOsrxlvOiZ31FmMPGkgKqclT0Pmrr3R67XCtw",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/db.sql",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDIzZGTCz6r2tY9KEnbswgqoITeJJgdcZxykjSk5",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/temp/",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDM1ZGRS",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/config.env",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ1ZGTBL1dsfx6BZI",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/database.sql",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDQ0ZGTrnMPE",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/testing/",
+      "confidence": 0.85
+    },
+    {
+      "key": "wEPDwULLTE5MzQxMTgzMTcPZBYCAgQPZBYCAgEPFgIeCWlubmVyaHRtbAUJMzU3MDA5NDYzZGSlL",
+      "service": "hex_key",
+      "source_file": "https://ynet.co.il/settings.php",
+      "confidence": 0.85
+    }
+  ],
+  "db_connections": [],
+  "summary": {
+    "total_credentials": 8,
+    "total_api_keys": 125,
+    "total_db_connections": 0,
+    "unique_sources": 52,
+    "timestamp": 1782557122.6159952
+  }
+}
